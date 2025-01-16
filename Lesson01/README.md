@@ -2,6 +2,7 @@
 
 ## Software installation
 **Microsoft Visual Studio Code**
+
 Download Visual Studio Code (you can also download more Microsoft software) from [Microsoft Azure for Education](https://azureforeducation.microsoft.com/devtools). Log in with your KEA credentials.
 
 Recommended Visual Studio Code extensions:
@@ -13,6 +14,7 @@ Recommended Visual Studio Code extensions:
 Many developers use [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) and [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot), but I would prefer you to write and “prettify” your code yourselves so that you have full control over it, especially now that you are learning.
 
 **Git and GitHub**
+
 Download and install [Git](https://git-scm.com/), the most popular SCM (Source Code Management) tool. Check out the [documentation](https://git-scm.com/doc).
 
 If you still do not have it, create an account on [GitHub](https://github.com/), the main code repository platform.
