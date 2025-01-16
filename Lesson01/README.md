@@ -22,3 +22,12 @@ Download and install [Git](https://git-scm.com/), the most popular SCM (Source C
 If you still do not have it, create an account on [GitHub](https://github.com/), the main code repository platform.
 
 If you just want to try some small code projects to illustrate specific CSS or JavaScript features, you can try a lightweight front-end platform like [CodePen](https://codepen.io/) or [jsFiddle](https://jsfiddle.net/).
+
+## Homework
+### MDN Web Docs. Test your skills
+- [Form structure](https://developer.mozilla.org/en-US/docs/Learn/Forms/Test_your_skills:_Form_structure)
+- [Basic controls](https://developer.mozilla.org/en-US/docs/Learn/Forms/Test_your_skills:_Basic_controls)
+- [HTML5 controls](https://developer.mozilla.org/en-US/docs/Learn/Forms/Test_your_skills:_HTML5_controls)
+- [Other controls](https://developer.mozilla.org/en-US/docs/Learn/Forms/Test_your_skills:_Other_controls)
+- [Form validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Test_your_skills:_Form_validation)
+[My proposed solution](https://codepen.io/collection/QWVQmY)
