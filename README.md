@@ -2,11 +2,10 @@
 ## PBA Web Development
 ![ux_small](https://github.com/user-attachments/assets/301941d6-924d-424f-9c95-b3a431c98f0b)
 
-{{% columns [ratio="1:1"] [class="..."]%}}
+<p style="max-width: 50%; float: right;">
 ![ux_small](https://github.com/user-attachments/assets/301941d6-924d-424f-9c95-b3a431c98f0b)
-<--->
-# User Experience - Spring 2025<br>## PBA Web Development |
-{{% /columns %}}
+</p>
+# User Experience - Spring 2025<br>## PBA Web Development
     
 
 - [Lesson 1](https://github.com/arturomorarioja-kea/WD_UX_F25/blob/main/Lesson01/README.md) - 30 January
