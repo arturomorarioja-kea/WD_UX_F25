@@ -40,8 +40,7 @@ If you just want to try some small code projects to illustrate specific CSS or J
   Backend vs Frontend
   Full Stack Developer]: #
 
-[
-### HTML5
+[### HTML5
 - Check out the slides on **HTML5**.
 ]: #
 [- Check out the [HTML Form](https://codepen.io/arturomorarioja/pen/poQeRNL) code sample.]: #
