@@ -23,7 +23,7 @@ If you still do not have it, create an account on [GitHub](https://github.com/),
 
 If you just want to try some small code projects to illustrate specific CSS or JavaScript features, you can try a lightweight front-end platform like [CodePen](https://codepen.io/) or [jsFiddle](https://jsfiddle.net/).
 
-## Homework
+:memo: ## Homework
 ### MDN Web Docs. Test your skills
 - [Form structure](https://developer.mozilla.org/en-US/docs/Learn/Forms/Test_your_skills:_Form_structure)
 - [Basic controls](https://developer.mozilla.org/en-US/docs/Learn/Forms/Test_your_skills:_Basic_controls)
@@ -40,7 +40,6 @@ If you just want to try some small code projects to illustrate specific CSS or J
   Backend vs Frontend
   Full Stack Developer]: #
 
-[### HTML5
-- Check out the slides on **HTML5**.
-]: #
+[### HTML5]: #
+[- Check out the slides on **HTML5**.]: #
 [- Check out the [HTML Form](https://codepen.io/arturomorarioja/pen/poQeRNL) code sample.]: #
