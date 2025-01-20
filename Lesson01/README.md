@@ -33,7 +33,15 @@ If you just want to try some small code projects to illustrate specific CSS or J
 [My proposed solution](https://codepen.io/collection/QWVQmY)
 
 [ROLL CALL]: #
+
+[Itslearning - GitHub - Teams]: #
+
+[MEMES 
+  Backend vs Frontend
+  Full Stack Developer]: #
+
 [
-LONG TEXT
-SEVERAL LINES
+### HTML5
+- Check out the slides on **HTML5**.
 ]: #
+[- Check out the [HTML Form](https://codepen.io/arturomorarioja/pen/poQeRNL) code sample.]: #
