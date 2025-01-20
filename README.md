@@ -6,6 +6,9 @@
     Content
     More content
 </div>
+<div>
     Second column
+</div>
+    
 
 - [Lesson 1](https://github.com/arturomorarioja-kea/WD_UX_F25/blob/main/Lesson01/README.md) - 30 January
