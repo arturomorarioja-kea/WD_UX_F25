@@ -34,7 +34,6 @@ If you just want to try some small code projects to illustrate specific CSS or J
 [My proposed solution](https://codepen.io/collection/QWVQmY)
 
 [ROLL CALL]: #
-[Hola Santiago]: #
 
 [Itslearning - GitHub - Teams]: #
 
