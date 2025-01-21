@@ -21,9 +21,9 @@ Download and install [Git](https://git-scm.com/), the most popular SCM (Source C
 
 If you still do not have it, create an account on [GitHub](https://github.com/), the main code repository platform.
 
-<font color="red">If you</font> just want to try some small code projects to illustrate specific CSS or JavaScript features, you can try a lightweight front-end platform like [CodePen](https://codepen.io/) or [jsFiddle](https://jsfiddle.net/).
+If you just want to try some small code projects to illustrate specific CSS or JavaScript features, you can try a lightweight front-end platform like [CodePen](https://codepen.io/) or [jsFiddle](https://jsfiddle.net/).
 
-## <font color="red">Homework</font>
+## Homework
 ### MDN Web Docs. Test your skills
 - [Form structure](https://developer.mozilla.org/en-US/docs/Learn/Forms/Test_your_skills:_Form_structure)
 - [Basic controls](https://developer.mozilla.org/en-US/docs/Learn/Forms/Test_your_skills:_Basic_controls)
