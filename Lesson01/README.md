@@ -42,7 +42,7 @@ If you just want to try some small code projects to illustrate specific CSS or J
   Full Stack Developer]: #
 
 [### HTML5]: #
-[Check out:]
+[Check out:]: #
 [- The slides on **HTML5**, with especial attention to semantic tagging and the difference between absolute and relative paths]: #
 [- The list of character entities(https://html.spec.whatwg.org/multipage/named-characters.html), with especial attention to commonly used characters (copyright sign, æ, ø, å)]: #
 [- The practical value of semantic HTML(https://brucelawson.co.uk/2018/the-practical-value-of-semantic-html/), by Bruce Lawson]: #
