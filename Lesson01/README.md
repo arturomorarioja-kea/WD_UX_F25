@@ -32,6 +32,7 @@ If you just want to try some small code projects to illustrate specific CSS or J
 Bookmark the following:
 - [Can I use](https://caniuse.com/) provides updated information about browser support for HTML, CSS and JavaScript elements
 - The W3C provides an [HTML validator](https://validator.w3.org/#validate_by_input) that checks the validity of your HTML code (regardless of whether the browser displays it correctly or not)
+- [LinkedIn Learning](https://www.linkedin.com/learning) offers video-based courses on all the technologies we use in class. As KEA students, you have a full subscription
 
 ### Git and GitHub
 You will be using them daily, so make sure that you can manage with the basic commands: `git clone`, `git init`, `git add`, `git commit`, `git push`, `git pull`. 
