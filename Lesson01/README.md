@@ -23,7 +23,35 @@ If you still do not have it, create an account on [GitHub](https://github.com/),
 
 If you just want to try some small code projects to illustrate specific CSS or JavaScript features, you can try a lightweight front-end platform like [CodePen](https://codepen.io/) or [jsFiddle](https://jsfiddle.net/).
 
+## Class takeaways
+### Basic Web Application Architecture
+- Make sure that you understand the tasks and tools involved in a backend and those in the frontend.
+- Explore different development stacks: https://fullscale.io/blog/top-5-tech-stacks/
+
+### Useful Websites
+Bookmark the following:
+- [Can I use](https://caniuse.com/) provides updated information about browser support for HTML, CSS and JavaScript elements
+- The W3C provides an [HTML validator](https://validator.w3.org/#validate_by_input) that checks the validity of your HTML code (regardless of whether the browser displays it correctly or not)
+
+### Git and GitHub
+You will be using them daily, so make sure that you can manage with the basic commands: `git clone`, `git init`, `git add`, `git commit`, `git push`, `git pull`. 
+
+### HTML5
+Check out:
+- The slides on **HTML5**, with especial attention to semantic tagging and landmark elements
+- [The list of character entities](https://html.spec.whatwg.org/multipage/named-characters.html), with especial attention to commonly used characters (copyright sign, æ, ø, å)
+- [The practical value of semantic HTML](https://brucelawson.co.uk/2018/the-practical-value-of-semantic-html/), by Bruce Lawson
+- How to Section Your HTML, [Part 7: Article is like "Block"; Section is like "Element"](https://css-tricks.com/how-to-section-your-html/#article-is-like-block-section-is-like-element), by Daniel Tonon
+- W3C's Markup Validation Service(https://validator.w3.org/). Run your HTML code here
+
+### CSS3
+- Always use [custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties) (CSS variables), at least for colours and font lists
+- Use [nested CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting/Using_CSS_nesting), since it now has wide browser support
+- [A deeper explanation](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing) on the box-sizing property
+
 ## Homework
+Go through all of the above. Practice it and delve deeper into it.
+
 ### MDN Web Docs. Test your skills
 - [Form structure](https://developer.mozilla.org/en-US/docs/Learn/Forms/Test_your_skills:_Form_structure)
 - [Basic controls](https://developer.mozilla.org/en-US/docs/Learn/Forms/Test_your_skills:_Basic_controls)
@@ -35,9 +63,5 @@ If you just want to try some small code projects to illustrate specific CSS or J
 
 [### HTML5]: #
 [Check out:]: #
-[- The slides on **HTML5**, with especial attention to semantic tagging and the difference between absolute and relative paths]: #
-[- The list of character entities(https://html.spec.whatwg.org/multipage/named-characters.html), with especial attention to commonly used characters (copyright sign, æ, ø, å)]: #
-[- The practical value of semantic HTML(https://brucelawson.co.uk/2018/the-practical-value-of-semantic-html/), by Bruce Lawson]: #
-[- How to Section Your HTML, Part 7: Article is like "Block"; Section is like "Element"(https://css-tricks.com/how-to-section-your-html/#article-is-like-block-section-is-like-element), by Daniel Tonon]: #
+[- The slides on **HTML5**, with especial attention to the difference between absolute and relative paths]: #
 [- The HTML Form(https://codepen.io/arturomorarioja/pen/poQeRNL) code sample.]: #
-[- W3C's Markup Validation Service(https://validator.w3.org/). Run your HTML code here]: #
