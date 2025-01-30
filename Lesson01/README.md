@@ -26,7 +26,7 @@ If you just want to try some small code projects to illustrate specific CSS or J
 ## Class takeaways
 ### Basic Web Application Architecture
 - Make sure that you understand the tasks and tools involved in a backend and those in the frontend.
-- Explore different development stacks: https://fullscale.io/blog/top-5-tech-stacks/
+- [Explore](https://fullscale.io/blog/top-5-tech-stacks/) different development stacks
 
 ### Useful Websites
 Bookmark the following:
@@ -42,12 +42,12 @@ Check out:
 - [The list of character entities](https://html.spec.whatwg.org/multipage/named-characters.html), with especial attention to commonly used characters (copyright sign, æ, ø, å)
 - [The practical value of semantic HTML](https://brucelawson.co.uk/2018/the-practical-value-of-semantic-html/), by Bruce Lawson
 - How to Section Your HTML, [Part 7: Article is like "Block"; Section is like "Element"](https://css-tricks.com/how-to-section-your-html/#article-is-like-block-section-is-like-element), by Daniel Tonon
-- W3C's Markup Validation Service(https://validator.w3.org/). Run your HTML code here
+- W3C's [Markup Validation Service](https://validator.w3.org/). Run your HTML code here
 
 ### CSS3
 - Always use [custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties) (CSS variables), at least for colours and font lists
 - Use [nested CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting/Using_CSS_nesting), since it now has wide browser support
-- [A deeper explanation](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing) on the box-sizing property
+- [A deeper explanation](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing) of the box-sizing property
 
 ## Homework
 Go through all of the above. Practice it and delve deeper into it.
