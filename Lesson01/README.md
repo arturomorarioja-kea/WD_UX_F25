@@ -33,17 +33,6 @@ If you just want to try some small code projects to illustrate specific CSS or J
 
 [My proposed solution](https://codepen.io/collection/QWVQmY)
 
-
-
-[git clone https://github.com/arturomorarioja/web_f25_ux_food_repo_w5.git]: #
-[ROLL CALL]: #
-
-[Itslearning - GitHub - Teams]: #
-
-[MEMES 
-  Backend vs Frontend
-  Full Stack Developer]: #
-
 [### HTML5]: #
 [Check out:]: #
 [- The slides on **HTML5**, with especial attention to semantic tagging and the difference between absolute and relative paths]: #
