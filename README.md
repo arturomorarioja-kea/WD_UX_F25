@@ -5,6 +5,7 @@
 
 ### Food Repo
 Throughout the course we will build a front-end sample about recipes: [Food Repo](https://github.com/arturomorarioja/js_food_repo_ux_f25). 
+
 Make sure to `git clone` it and `git pull` the latest version every week.
 
 - [Lesson 1](https://github.com/arturomorarioja-kea/WD_UX_F25/blob/main/Lesson01/README.md) - 30 January
