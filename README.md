@@ -10,4 +10,4 @@ Make sure to `git clone` it and `git pull` the latest version every week.
 
 ### Lessons
 
-- [Lesson 1](https://github.com/arturomorarioja-kea/WD_UX_F25/blob/main/Lesson01/README.md). Basic web application architecture, introduction to HTML and CSS - 30 January
+- [Lesson 1](https://github.com/arturomorarioja-kea/WD_UX_F25/blob/main/Lesson01/README.md) (30 January): Basic web application architecture. Introduction to HTML and CSS
