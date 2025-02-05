@@ -2,6 +2,10 @@
 
 # Lesson 2 - 6 February
 
+[-> Food Repo. Style: lateral margins. Pixel units. External fonts]: #
+[-> Contact. Address + form: name, email, phone, comments. Mobile first. Process it with an alert, then a dialog. Then make the about page a dialog]: #
+[-> JS: relative paths]: #
+
 [## In-class exercise]: #
 
 [### Tax Calculator]: #
@@ -54,4 +58,5 @@
 [- Objects(https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Test_your_skills:_Object_basics)]: #
 [- ]: #
 
-[Start working on the *CSS Restaurant*(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344462) assignment, which is a part of the **First Mandatory Assignment**(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344451)]: #
+[### First Mandatory Assignment(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344451)]: #
+[Start working on the *CSS Restaurant*(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344462)]: #
