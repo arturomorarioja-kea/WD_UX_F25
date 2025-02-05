@@ -32,6 +32,8 @@
 [- The HTML Form(https://codepen.io/arturomorarioja/pen/poQeRNL) code sample.]: #
 
 [### CSS3]: #
+[Check out:]: #
+[- The slide deck **CSS3**, with especial attention to the Fonts page]: #
 
 [### JavaScript]: #
 [Check out:]: #
