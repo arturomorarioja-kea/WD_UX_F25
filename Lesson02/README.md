@@ -3,6 +3,7 @@
 # Lesson 2 - 6 February
 
 [-> Food Repo. Style: lateral margins. Pixel units. External fonts]: #
+[->MEME https://www.linkedin.com/posts/k-mahesh-kumar-achary-4a438b286_javascriptshorthand-html-css-activity-7276474276617056256-JvSH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACTGIwsBYJByvdIywdVu7mXz_pjHE8E2Ccs]: #
 [-> Contact. Address + form: name, email, phone, comments. Mobile first. Process it with an alert, then a dialog. Then make the about page a dialog]: #
 [-> JS: relative paths]: #
 
