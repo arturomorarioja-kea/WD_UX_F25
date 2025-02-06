@@ -21,7 +21,7 @@ Create a tax calculator app using HTML, CSS and JavaScript.
 
 ### HTML5
 Check out:
-- The HTML Form(https://codepen.io/arturomorarioja/pen/poQeRNL) code sample.
+- Code sample: [HTML Form](https://codepen.io/arturomorarioja/pen/poQeRNL)
 
 ### CSS3
 Check out:
