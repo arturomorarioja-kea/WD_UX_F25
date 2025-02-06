@@ -67,7 +67,7 @@ Create a temperature converter app using HTML, CSS and JavaScript.
 
 ### [First Mandatory Assignment](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344451)
 Start working on the [*CSS Restaurant*](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344462). Take the following into account:
-- Only HTML5 and CSS3 is allowed. No frameworks or libraries
+- Only HTML5 and CSS3 are allowed. No frameworks or libraries
 - We still have not covered everything you need to do the full assignment, so start it but do not strive to finishing it yet
 - If you engage in responsiveness:
   - Use a mobile first approach
