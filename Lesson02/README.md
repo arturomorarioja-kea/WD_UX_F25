@@ -7,9 +7,6 @@
 [-> Contact. Address + form: name, email, phone, comments. Mobile first. Process it with an alert, then a dialog. Then make the about page a dialog]: #
 [-> JS: relative paths]: #
 
-[--> font size relative units https://medium.com/front-end-101/css-why-should-you-not-use-px-for-font-size-fdf781ceb0b0]: #
-[--> font load. Font load sample]: #
-
 ## In-class exercise
 
 ### Tax Calculator
@@ -21,34 +18,29 @@ Create a tax calculator app using HTML, CSS and JavaScript.
 
 [Proposed solution(https://github.com/arturomorarioja/kea_js_tax_calculator_solution)]: #
 
-[### Temperature Converter]: #
-[Create a temperature converter app using HTML, CSS and JavaScript.]: #
-[- It should convert between Celsius, Fahrenheit and Kelvin degrees]: #
-[- The input textbox should allow for two decimal positions]: #
-[!image(https://github.com/user-attachments/assets/6443eb83-0b73-4ff9-b9f1-87ec5fee03c9)]: #
-
-[Proposed solution(https://github.com/arturomorarioja/kea_js_temperature_converter_solution)]: #
-
 [## Class takeaways]: #
 
 [### HTML5]: #
 [Check out:]: #
-[- The slides on **HTML5**, with especial attention to the difference between absolute and relative paths]: #
+[NOT YET- The slides on **HTML5**, with especial attention to the difference between absolute and relative paths]: #
 [- The HTML Form(https://codepen.io/arturomorarioja/pen/poQeRNL) code sample.]: #
 
 [### CSS3]: #
 [Check out:]: #
 [- The slide deck **CSS3**, with especial attention to the Fonts page]: #
+[- Why you should avoid pixel units(https://medium.com/front-end-101/css-why-should-you-not-use-px-for-font-size-fdf781ceb0b0)]: #
+[- CSS font load code sample(https://github.com/arturomorarioja/css3_external_font_load)]: #
 
 [### JavaScript]: #
 [Check out:]: #
 [- The slide decks **Introduction to JavaScript** and **JavaScript - The DOM**, with especial attention to:]: #
-[  - Strings and template literals]: #
+[  - JavaScript variables (let and const)]: #
+[  - Strings and template literals (backticks)]: #
 [  - Loading JavaScript from HTML. Remember to always use async or defer or, even better, JavaScript modules]: #
 [  - Event listeners and form validation]: #
 [- The following code samples:]: #
 [  - JavaScript File Loading(https://github.com/arturomorarioja/js_file_load)]: #
-[  - ES Modules(https://github.com/arturomorarioja/js_modules)]: #
+[NOT YET  - ES Modules(https://github.com/arturomorarioja/js_modules)]: #
 
 [## Homework]: #
 [Go through all of the above. Practice it and delve deeper into it.]: #
@@ -64,6 +56,14 @@ Create a tax calculator app using HTML, CSS and JavaScript.
 [- Functions(https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Functions)]: #
 [- Objects(https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Test_your_skills:_Object_basics)]: #
 [- ]: #
+
+[### Temperature Converter]: #
+[Create a temperature converter app using HTML, CSS and JavaScript.]: #
+[- It should convert between Celsius, Fahrenheit and Kelvin degrees]: #
+[- The input textbox should allow for two decimal positions]: #
+[!image(https://github.com/user-attachments/assets/6443eb83-0b73-4ff9-b9f1-87ec5fee03c9)]: #
+
+[Proposed solution(https://github.com/arturomorarioja/kea_js_temperature_converter_solution)]: #
 
 [### First Mandatory Assignment(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344451)]: #
 [Start working on the *CSS Restaurant*(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344462)]: #
