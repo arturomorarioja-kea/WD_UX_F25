@@ -5,6 +5,7 @@
 [-> Food Repo. Style: lateral margins. Form submit button cursor pointer on hover. Dialog instead of alert. Then make the about page a dialog. Fetch recipes]: #
 [-> JS: relative paths]: #
 [NOT YET- The slides on **HTML5**, with especial attention to the difference between absolute and relative paths]: #
+[NOT YET  - ES Modules(https://github.com/arturomorarioja/js_modules)]: #
 
 ## In-class exercise
 
@@ -32,7 +33,7 @@ Check out:
 ### JavaScript
 Check out:
 - The slide deck **Introduction to JavaScript**, with especial attention to:
-  - JavaScript variables (let and const)]: #
+  - JavaScript variables (let and const)
   - JavaScript variables in string (template literals in backticks)
   - Calling JavaScript from HTML and JavaScript file load. Remember to always use async or defer or, even better, JavaScript modules
 - The slide deck **JavaScript - The DOM**, with especial attention to:
@@ -40,7 +41,6 @@ Check out:
   - DOM events and event management
   - Form validation
 - Code sample: [JavaScript File Loading](https://github.com/arturomorarioja/js_file_load)
-[NOT YET  - ES Modules(https://github.com/arturomorarioja/js_modules)]: #
 
 ## Homework
 Go through all of the above. Practice it and delve deeper into it.
