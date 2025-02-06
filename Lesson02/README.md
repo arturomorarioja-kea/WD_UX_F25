@@ -34,7 +34,7 @@ Check out:
 Check out:
 - The slide deck **Introduction to JavaScript**, with especial attention to:
   - JavaScript variables (let and const)
-  - JavaScript variables in string (template literals in backticks)
+  - JavaScript variables in strings (template literals in backticks)
   - Calling JavaScript from HTML and JavaScript file load. Remember to always use async or defer or, even better, JavaScript modules
 - The slide deck **JavaScript - The DOM**, with especial attention to:
   - Getting DOM elements and attributes
