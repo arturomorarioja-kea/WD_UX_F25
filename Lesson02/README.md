@@ -7,6 +7,9 @@
 [-> Contact. Address + form: name, email, phone, comments. Mobile first. Process it with an alert, then a dialog. Then make the about page a dialog]: #
 [-> JS: relative paths]: #
 
+[--> font size relative units https://medium.com/front-end-101/css-why-should-you-not-use-px-for-font-size-fdf781ceb0b0]: #
+[--> font load. Font load sample]: #
+
 [-> ROLLCALL]: #
 
 [## In-class exercise]: #
