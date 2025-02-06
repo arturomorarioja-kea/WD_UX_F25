@@ -10,15 +10,13 @@
 [--> font size relative units https://medium.com/front-end-101/css-why-should-you-not-use-px-for-font-size-fdf781ceb0b0]: #
 [--> font load. Font load sample]: #
 
-[-> ROLLCALL]: #
+## In-class exercise
 
-[## In-class exercise]: #
-
-[### Tax Calculator]: #
-[Create a tax calculator app using HTML, CSS and JavaScript.]: #
-[- It should add the tax percentage to the monetary amount]: #
-[- Both input textboxes must allow numeric values with up to two decimal positions]: #
-[!image(https://github.com/user-attachments/assets/868446da-1e19-4518-bbe3-c51f24ec221e)]: #
+### Tax Calculator
+Create a tax calculator app using HTML, CSS and JavaScript.
+- It should add the tax percentage to the monetary amount
+- Both input textboxes must allow numeric values with up to two decimal positions
+![image](https://github.com/user-attachments/assets/868446da-1e19-4518-bbe3-c51f24ec221e)
 
 [Proposed solution(https://github.com/arturomorarioja/kea_js_tax_calculator_solution)]: #
 
