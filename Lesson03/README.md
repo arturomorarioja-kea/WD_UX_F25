@@ -7,6 +7,10 @@
 [  - ES Modules(https://github.com/arturomorarioja/js_modules)]: #
 [-> fetch()]: #
 
+[## Exercise solutions]: #
+[  - Restaurant(https://github.com/arturomorarioja/php_restaurant)]: #
+[  - Logger(https://github.com/arturomorarioja/php_logger)]: #
+
 [## In-class exercise]: #
 
 [### Project Gutenberg - API consumption]: #
