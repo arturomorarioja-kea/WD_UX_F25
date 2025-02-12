@@ -7,6 +7,9 @@
 [  - ES Modules(https://github.com/arturomorarioja/js_modules)]: #
 [-> fetch()]: #
 
+[## Homework exercise solution]: #
+[- Temperature converter(https://github.com/arturomorarioja/kea_js_temperature_converter_solution)]: #
+
 [## In-class exercise]: #
 
 [### Project Gutenberg - API consumption]: #
@@ -32,6 +35,8 @@
 [  - Append strategies(https://github.com/arturomorarioja/js_append_strategies)]: #
 [  - Append strategies 2(https://github.com/arturomorarioja/js_append_strategies_v2)]: #
 [  - Document fragment(https://codepen.io/arturomorarioja/pen/QwLaVMj)]: #
+[  - Basic fetch(https://github.com/arturomorarioja/js_basic_fetch)]: #
+[  - API consumption(https://github.com/arturomorarioja/kea_js_api_consumption)]: #
 
 [## Homework]: #
 
