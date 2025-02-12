@@ -7,16 +7,10 @@
 [  - ES Modules(https://github.com/arturomorarioja/js_modules)]: #
 [-> fetch()]: #
 
-[## Exercise solutions]: #
-[  - Restaurant(https://github.com/arturomorarioja/php_restaurant)]: #
-[  - Logger(https://github.com/arturomorarioja/php_logger)]: #
-
 [## In-class exercise]: #
 
 [### Project Gutenberg - API consumption]: #
 [Create an application that consumes the `books` endpoint of Gutendex(https://gutendex.com/) (the Project Gutenberg API) and displays a series of book cards including book title, authors (notice that there can be more than one), cover image, description (there can be more than one, but just use the first one; notice that there can be no description, so account for it), and a link to the HTML version of the book in the Project Gutenberg page.]: #
-
-[  - KEA IT degrees(https://github.com/arturomorarioja/kea-it-degrees). It reads the information to display from a JSON file]: #
 
 [!image(https://github.com/user-attachments/assets/b4f998ca-b38f-4b34-8834-408653ce2729)]: #
 
@@ -31,6 +25,7 @@
 
 [### JavaScript]: #
 [Check out:]: #
+[- The slide deck **Introduction to JavaScript**, with especial attention to ES modules]: #
 [- The slide deck **JavaScript - The DOM**, with especial attention to element creation]: #
 [- The slide deck **JavaScript - API Consumption**, with especial attention to JSON and Fetch]: #
 [- Code samples:]: #
@@ -52,3 +47,12 @@
 [    - Consistency in the use of landmarks]: #
 [    - Mega menus]: #
 [  - Show your findings to the class next week]: #
+
+[### First Mandatory Assignment(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344451)]: #
+[- Do the *Music CDs* exercise(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344535). When submitting, specify whether you want individual feedback]: #
+[- Start working on the *API consumption* exercise(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344536). Take the following into account]: #
+[  - You need to sign up to TMDB(https://www.themoviedb.org/signup) (The Movie DataBase) in order to get an API key]: #
+[  - Find the endpoints you need in TMDB's API Reference(https://developer.themoviedb.org/reference/intro/getting-started):]: #
+[!image(https://github.com/user-attachments/assets/45b18cd9-aca3-4b46-bfa2-a90e44dd8bad)]: #
+[  - Before implementing the corresponding `fetch()` requests, read each endpoint's documentation in the central and right side of the page]: #
+[  - Try to optimize your code so that you do not need to make four independent `fetch()` requests]: #
