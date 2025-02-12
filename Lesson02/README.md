@@ -58,8 +58,6 @@ Create a temperature converter app using HTML, CSS and JavaScript.
 
 ![image](https://github.com/user-attachments/assets/6443eb83-0b73-4ff9-b9f1-87ec5fee03c9)
 
-[Proposed solution(https://github.com/arturomorarioja/kea_js_temperature_converter_solution)]: #
-
 ### [First Mandatory Assignment](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344451)
 Start working on the [*CSS Restaurant*](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344462). Take the following into account:
 - Only HTML5 and CSS3 are allowed. No frameworks or libraries
