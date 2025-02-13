@@ -2,8 +2,6 @@
 
 # Lesson 3 - 13 February
 
-[-> Food Repo. Style: lateral margins. Form submit button cursor pointer on hover. Dialog instead of alert. Then make the about page a dialog. Fetch recipes]: #
-
 ## Homework exercise solution
 - [Temperature converter](https://github.com/arturomorarioja/kea_js_temperature_converter_solution)
 
@@ -16,7 +14,7 @@ Create an application that consumes the `books` endpoint of [Gutendex](https://g
 
 ![image](https://github.com/user-attachments/assets/8f07ebae-4446-4482-b4ae-dd62c8a4caff)
 
-[Proposed solution(https://github.com/arturomorarioja/js_project_gutenberg)]: #
+Proposed solution(https://github.com/arturomorarioja/js_project_gutenberg)
 
 ## Class takeaways
 
