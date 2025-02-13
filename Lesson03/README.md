@@ -40,8 +40,8 @@ Rework it at home. Make sure that you are using the correct syntax. Study the JS
 ### First Mandatory Assignment(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344451)
 - Do the [*Music CDs* exercise](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344535). If you decide to submit, specify whether you want individual feedback
 - Start working on the [*API consumption* exercise](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344536). Take the following into account
-  - You need to sign up to TMDB(https://www.themoviedb.org/signup) (The Movie DataBase) in order to get an API key
-  - Find the endpoints you need in TMDB's API Reference(https://developer.themoviedb.org/reference/intro/getting-started):
+  - You need to sign up to [TMDB](https://www.themoviedb.org/signup) (The Movie DataBase) in order to get an API key
+  - Find the endpoints you need in [TMDB's API Reference](https://developer.themoviedb.org/reference/intro/getting-started):
 ![image](https://github.com/user-attachments/assets/45b18cd9-aca3-4b46-bfa2-a90e44dd8bad)
   - Before implementing the corresponding `fetch()` requests, read each endpoint's documentation in the central and right side of the page
   - Try to optimize your code so that you do not need to make four independent `fetch()` requests
