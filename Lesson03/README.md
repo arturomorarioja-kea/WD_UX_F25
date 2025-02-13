@@ -3,7 +3,6 @@
 # Lesson 3 - 13 February
 
 [-> Food Repo. Style: lateral margins. Form submit button cursor pointer on hover. Dialog instead of alert. Then make the about page a dialog. Fetch recipes]: #
-[-> fetch()]: #
 
 ## Homework exercise solution
 - [Temperature converter](https://github.com/arturomorarioja/kea_js_temperature_converter_solution)
@@ -17,25 +16,23 @@ Create an application that consumes the `books` endpoint of [Gutendex](https://g
 
 ![image](https://github.com/user-attachments/assets/8f07ebae-4446-4482-b4ae-dd62c8a4caff)
 
-[## Class takeaways]: #
+[Proposed solution(https://github.com/arturomorarioja/js_project_gutenberg)]: #
 
-[### HTML5]: #
-[Check out the slide deck **HTML5**, with especial attention to:]: #
-[- The difference between absolute and relative paths]: #
-[- The `<dialog>` element.]: #
+## Class takeaways
 
-[### JavaScript]: #
-[Check out:]: #
-[- The slide deck **Introduction to JavaScript**, with especial attention to ES modules]: #
-[- The slide deck **JavaScript - The DOM**, with especial attention to element creation]: #
-[- The slide deck **JavaScript - API Consumption**, with especial attention to JSON and Fetch]: #
-[- Code samples:]: #
-[  - Append strategies(https://github.com/arturomorarioja/js_append_strategies)]: #
-[  - Append strategies 2(https://github.com/arturomorarioja/js_append_strategies_v2)]: #
-[  - Document fragment(https://codepen.io/arturomorarioja/pen/QwLaVMj)]: #
-[  - Basic fetch(https://github.com/arturomorarioja/js_basic_fetch)]: #
-[  - API consumption(https://github.com/arturomorarioja/kea_js_api_consumption)]: #
-[  - ES Modules(https://github.com/arturomorarioja/js_modules)]: #
+### HTML5
+Check out the slide deck **HTML5**, with especial attention to:
+- The difference between absolute and relative paths
+
+### JavaScript
+Check out:
+- The slide deck **JavaScript - The DOM**, with especial attention to element creation
+- The slide deck **JavaScript - API Consumption**, with especial attention to JSON and Fetch
+- Code samples:
+  - Append strategies(https://github.com/arturomorarioja/js_append_strategies)
+  - Append strategies 2(https://github.com/arturomorarioja/js_append_strategies_v2)
+  - Document fragment(https://codepen.io/arturomorarioja/pen/QwLaVMj)
+  - Basic fetch(https://github.com/arturomorarioja/js_basic_fetch)
 
 [## Homework]: #
 
