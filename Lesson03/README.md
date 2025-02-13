@@ -37,7 +37,7 @@ Check out:
 ### Project Gutenberg
 Rework it at home. Make sure that you are using the correct syntax. Study the JSON data the API returns before using it, and make sure that you are following a sound strategy (e.g., checking whether you need to iterate a series of fetch requests or if you need to iterate the data that the fetch request provides).
 
-### First Mandatory Assignment(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344451)
+### [First Mandatory Assignment](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344451)
 - Do the [*Music CDs* exercise](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344535). If you decide to submit, specify whether you want individual feedback
 - Start working on the [*API consumption* exercise](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344536). Take the following into account
   - You need to sign up to [TMDB](https://www.themoviedb.org/signup) (The Movie DataBase) in order to get an API key
