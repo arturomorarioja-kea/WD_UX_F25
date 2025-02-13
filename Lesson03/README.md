@@ -14,7 +14,7 @@ Create an application that consumes the `books` endpoint of [Gutendex](https://g
 
 ![image](https://github.com/user-attachments/assets/8f07ebae-4446-4482-b4ae-dd62c8a4caff)
 
-Proposed solution(https://github.com/arturomorarioja/js_project_gutenberg)
+[Proposed solution](https://github.com/arturomorarioja/js_project_gutenberg)
 
 ## Class takeaways
 
@@ -32,26 +32,16 @@ Check out:
   - [Document fragment](https://codepen.io/arturomorarioja/pen/QwLaVMj)
   - [Basic fetch](https://github.com/arturomorarioja/js_basic_fetch)
 
-[## Homework]: #
+## Homework
 
-[### Information Architecture]: #
-[- Check out the slides on **IA Navigation and Wayfinding**, with especial attention to:]: #
-[  - Navigation structures]: #
-[  - Wayfinding methods (breadcrumbs, URL structures, CTAs, landmarks and mega menus)]: #
-[- Do the following exercise in groups of 4 students:]: #
-[  - Find at least one website example of each one of the following wayfinding resources:]: #
-[    - Breadcrumbs]: #
-[    - URL structures]: #
-[    - Calls to action]: #
-[    - Consistency in the use of landmarks]: #
-[    - Mega menus]: #
-[  - Show your findings to the class next week]: #
+### Project Gutenberg
+Rework it at home. Make sure that you are using the correct syntax. Study the JSON data the API returns before using it, and make sure that you are following a sound strategy (e.g., checking whether you need to iterate a series of fetch requests or if you need to iterate the data that the fetch request provides).
 
-[### First Mandatory Assignment(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344451)]: #
-[- Do the *Music CDs* exercise(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344535). When submitting, specify whether you want individual feedback]: #
-[- Start working on the *API consumption* exercise(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344536). Take the following into account]: #
-[  - You need to sign up to TMDB(https://www.themoviedb.org/signup) (The Movie DataBase) in order to get an API key]: #
-[  - Find the endpoints you need in TMDB's API Reference(https://developer.themoviedb.org/reference/intro/getting-started):]: #
-[!image(https://github.com/user-attachments/assets/45b18cd9-aca3-4b46-bfa2-a90e44dd8bad)]: #
-[  - Before implementing the corresponding `fetch()` requests, read each endpoint's documentation in the central and right side of the page]: #
-[  - Try to optimize your code so that you do not need to make four independent `fetch()` requests]: #
+### First Mandatory Assignment(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344451)
+- Do the [*Music CDs* exercise](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344535). If you decide to submit, specify whether you want individual feedback
+- Start working on the [*API consumption* exercise](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344536). Take the following into account
+  - You need to sign up to TMDB(https://www.themoviedb.org/signup) (The Movie DataBase) in order to get an API key
+  - Find the endpoints you need in TMDB's API Reference(https://developer.themoviedb.org/reference/intro/getting-started):
+![image](https://github.com/user-attachments/assets/45b18cd9-aca3-4b46-bfa2-a90e44dd8bad)
+  - Before implementing the corresponding `fetch()` requests, read each endpoint's documentation in the central and right side of the page
+  - Try to optimize your code so that you do not need to make four independent `fetch()` requests
