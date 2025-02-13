@@ -8,14 +8,14 @@
 ## Homework exercise solution
 - [Temperature converter](https://github.com/arturomorarioja/kea_js_temperature_converter_solution)
 
-[## In-class exercise]: #
+## In-class exercise
 
-[### Project Gutenberg - API consumption]: #
-[Create an application that consumes the `books` endpoint of Gutendex(https://gutendex.com/) (the Project Gutenberg API) and displays a series of book cards including book title, authors (notice that there can be more than one), cover image, description (there can be more than one, but just use the first one; notice that there can be no description, so account for it), and a link to the HTML version of the book in the Project Gutenberg page.]: #
+### Project Gutenberg - API consumption
+Create an application that consumes the `books` endpoint of [Gutendex](https://gutendex.com/) (the Project Gutenberg API) and displays a series of book cards including book title, authors (notice that there can be more than one), cover image, description (there can be more than one, but just use the first one; notice that there can be no description, so account for it), and a link to the HTML version of the book in the Project Gutenberg page.
 
-[!image(https://github.com/user-attachments/assets/b4f998ca-b38f-4b34-8834-408653ce2729)]: #
+![image](https://github.com/user-attachments/assets/b4f998ca-b38f-4b34-8834-408653ce2729)
 
-[!image(https://github.com/user-attachments/assets/8f07ebae-4446-4482-b4ae-dd62c8a4caff)]: #
+![image](https://github.com/user-attachments/assets/8f07ebae-4446-4482-b4ae-dd62c8a4caff)
 
 [## Class takeaways]: #
 
