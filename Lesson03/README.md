@@ -6,7 +6,7 @@
 [-> fetch()]: #
 
 ## Homework exercise solution
-- Temperature converter(https://github.com/arturomorarioja/kea_js_temperature_converter_solution)
+- [Temperature converter](https://github.com/arturomorarioja/kea_js_temperature_converter_solution)
 
 [## In-class exercise]: #
 
