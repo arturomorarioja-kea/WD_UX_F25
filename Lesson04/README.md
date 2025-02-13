@@ -20,3 +20,18 @@
 [-->  - Basic fetch(https://github.com/arturomorarioja/js_basic_fetch)]: #
 [  - API consumption(https://github.com/arturomorarioja/kea_js_api_consumption)]: #
 [  - ES Modules(https://github.com/arturomorarioja/js_modules)]: #
+
+[## Homework]: #
+
+[### Information Architecture]: #
+[- Check out the slides on **IA Navigation and Wayfinding**, with especial attention to:]: #
+[  - Navigation structures]: #
+[  - Wayfinding methods (breadcrumbs, URL structures, CTAs, landmarks and mega menus)]: #
+[- Do the following exercise in groups of 4 students:]: #
+[  - Find at least one website example of each one of the following wayfinding resources:]: #
+[    - Breadcrumbs]: #
+[    - URL structures]: #
+[    - Calls to action]: #
+[    - Consistency in the use of landmarks]: #
+[    - Mega menus]: #
+[  - Show your findings to the class next week]: #
