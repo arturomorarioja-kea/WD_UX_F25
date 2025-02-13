@@ -29,10 +29,10 @@ Check out:
 - The slide deck **JavaScript - The DOM**, with especial attention to element creation
 - The slide deck **JavaScript - API Consumption**, with especial attention to JSON and Fetch
 - Code samples:
-  - Append strategies(https://github.com/arturomorarioja/js_append_strategies)
-  - Append strategies 2(https://github.com/arturomorarioja/js_append_strategies_v2)
-  - Document fragment(https://codepen.io/arturomorarioja/pen/QwLaVMj)
-  - Basic fetch(https://github.com/arturomorarioja/js_basic_fetch)
+  - [Append strategies](https://github.com/arturomorarioja/js_append_strategies)
+  - [Append strategies 2](https://github.com/arturomorarioja/js_append_strategies_v2)
+  - [Document fragment](https://codepen.io/arturomorarioja/pen/QwLaVMj)
+  - [Basic fetch](https://github.com/arturomorarioja/js_basic_fetch)
 
 [## Homework]: #
 
