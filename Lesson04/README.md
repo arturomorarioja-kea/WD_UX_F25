@@ -51,3 +51,6 @@
 [- Check out the slides on **IA Navigation and Wayfinding**, with especial attention to:]: #
 [  - Navigation structures]: #
 [  - Wayfinding methods (breadcrumbs, URL structures, CTAs, landmarks and mega menus)]: #
+
+[### First Mandatory Assignment(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344451)]: #
+[- Deliver the *Music CDs* exercise(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344535). The deadline is on 2/4, but I will only provide individual feedback to those who submit before Wednesday and only if you specify in your delivery that you want individual feedback]: #
