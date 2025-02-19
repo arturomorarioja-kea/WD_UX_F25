@@ -5,7 +5,7 @@
 [--> Ask about Restaurant, Music CDs and TMDB]: #
 [--> Food Repo. Style: lateral margins. Form submit button cursor pointer on hover. Dialog instead of alert. Then make the about page a dialog. Responsiveness. clamp()]: #
 [--> Show code samples Append strategies 1 & 2, Document fragment, Basic fetch]: #
-[--> Show code samples CSS3 Background, CSS3 Responsive Font and Image, flexbox]: #
+[--> Show code samples CSS3 Background(https://codepen.io/arturomorarioja/pen/xxQqRgY), CSS3 Responsive Font and Image(https://codepen.io/arturomorarioja/pen/MWzpJjG), Flexbox(https://github.com/arturomorarioja/css_flexbox)]: #
 
 [## In-class exercise]: #
 
