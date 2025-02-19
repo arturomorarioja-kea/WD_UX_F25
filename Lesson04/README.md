@@ -2,6 +2,7 @@
 
 # Lesson 4 - 20 February
 
+[--> Git clone https://github.com/arturomorarioja/js_food_repo_ux_f25_u8_prep]: #
 [--> Ask about Restaurant, Music CDs and TMDB]: #
 [--> Food Repo. Style: lateral margins. Form submit button cursor pointer on hover. Dialog instead of alert. Then make the about page a dialog. Responsiveness. clamp()]: #
 [--> Show code samples Append strategies 1 & 2, Document fragment, Basic fetch]: #
