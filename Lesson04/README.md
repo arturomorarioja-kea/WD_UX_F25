@@ -2,11 +2,9 @@
 
 # Lesson 4 - 20 February
 
-[--> js_food_repo_ux_f25_u8_prep]: #
-[--> Ask about Restaurant, Music CDs and TMDB]: #
 [--> Food Repo. Style: lateral margins. Form submit button cursor pointer on hover. Dialog instead of alert. Then make the about page a dialog. Responsiveness. clamp()]: #
 [--> Show code samples Append strategies 1 & 2, Document fragment, Basic fetch]: #
-[--> Show code samples CSS3 Background(https://codepen.io/arturomorarioja/pen/xxQqRgY), CSS3 Responsive Font and Image(https://codepen.io/arturomorarioja/pen/MWzpJjG), Flexbox(https://github.com/arturomorarioja/css_flexbox)]: #
+[--> Show code samples CSS3 Background(https://codepen.io/arturomorarioja/pen/xxQqRgY), CSS3 Responsive Font and Image(https://codepen.io/arturomorarioja/pen/MWzpJjG)]: #
 
 [## In-class exercise]: #
 
@@ -26,14 +24,16 @@
 [Check out the slide deck **HTML5**, with especial attention to:]: #
 [- The `<dialog>` element]: #
 
-[### CSS3]: #
+### CSS3
 [Check out the slide deck **CSS3**, with especial attention to:]: #
 [- Variables and Calculations]: #
-[Check out the slide deck **Responsive Web Design**, with especial attention to:]: #
-[- Responsive Web Design Recommendations]: #
-[- CSS3 Media Queries]: #
-[- Mobile First Design]: #
-[- Flexbox]: #
+Check out the slide deck **Responsive Web Design**, with especial attention to:
+- Responsive Web Design Recommendations
+- CSS3 Media Queries
+- Mobile First Design
+- Flexbox
+Check out the following code sample:
+-[Flexbox](https://github.com/arturomorarioja/css_flexbox)
 
 [### JavaScript]: #
 [Check out:]: #
