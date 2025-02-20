@@ -42,8 +42,8 @@ Check out the following code sample:
   - Navigation structures
   - Wayfinding methods (breadcrumbs, URL structures, CTAs, landmarks and mega menus)
 
-### First Mandatory Assignment(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344451)
-- Deliver the *Music CDs* exercise(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344535)
-- Deliver the *CSS Restaurant* exercise(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344462)
+### [First Mandatory Assignment](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344451)
+- Deliver the [*Music CDs* exercise](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344535)
+- Deliver the [*CSS Restaurant* exercise](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344462)
 
 The deadline is on 2/4, but I will only provide individual feedback to those who submit before Wednesday and only if you specify in your delivery that you want individual feedback.
