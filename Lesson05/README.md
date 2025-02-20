@@ -10,6 +10,9 @@
 [--> Show code samples Append strategies 1 & 2, Document fragment, Basic fetch]: #
 [--> Show code samples CSS3 Background(https://codepen.io/arturomorarioja/pen/xxQqRgY), CSS3 Responsive Font and Image(https://codepen.io/arturomorarioja/pen/MWzpJjG)]: #
 
+[## In-class exercise]: #
+[Colours]: #
+
 [## Class takeaways]: #
 
 [### JavaScript]: #
@@ -22,6 +25,10 @@
 [-->  - Basic fetch(https://github.com/arturomorarioja/js_basic_fetch)]: #
 [  - API consumption(https://github.com/arturomorarioja/kea_js_api_consumption)]: #
 [  - ES Modules(https://github.com/arturomorarioja/js_modules)]: #
+
+[### Visual Design]: #
+[Check out:]: #
+[- The slide deck **Visual Design - Colours and Typography**]: #
 
 [## Homework]: #
 
