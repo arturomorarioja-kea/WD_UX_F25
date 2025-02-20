@@ -32,6 +32,7 @@ Check out the slide deck **Responsive Web Design**, with especial attention to:
 - CSS3 Media Queries
 - Mobile First Design
 - Flexbox
+
 Check out the following code sample:
 - [Flexbox](https://github.com/arturomorarioja/css_flexbox)
 
