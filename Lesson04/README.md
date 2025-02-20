@@ -6,17 +6,17 @@
 [--> Show code samples Append strategies 1 & 2, Document fragment, Basic fetch]: #
 [--> Show code samples CSS3 Background(https://codepen.io/arturomorarioja/pen/xxQqRgY), CSS3 Responsive Font and Image(https://codepen.io/arturomorarioja/pen/MWzpJjG)]: #
 
-[## In-class exercise]: #
+## In-class exercise
 
-[### Navigation and Wayfinding]: #
-[- Do the following exercise in groups of 4 students:]: #
-[  - Find at least one website example of each one of the following wayfinding resources:]: #
-[    - Breadcrumbs]: #
-[    - URL structures]: #
-[    - Calls to action]: #
-[    - Consistency in the use of landmarks]: #
-[    - Mega menus]: #
-[  - Show your findings to the class next week]: #
+### Navigation and Wayfinding
+- Do the following exercise in groups of 4 students:
+  - Find at least one website example of each one of the following wayfinding resources:
+    - Breadcrumbs
+    - URL structures
+    - Calls to action
+    - Consistency in the use of landmarks
+    - Mega menus
+  - Show your findings to the class
 
 [## Class takeaways]: #
 
