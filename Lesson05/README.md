@@ -11,7 +11,16 @@
 [--> Show code samples CSS3 Background(https://codepen.io/arturomorarioja/pen/xxQqRgY), CSS3 Responsive Font and Image(https://codepen.io/arturomorarioja/pen/MWzpJjG)]: #
 
 [## In-class exercise]: #
-[Colours]: #
+
+[### Colour palettes]: #
+[Work in groups of 4. Find websites that use the following colour palettes (at least one website per palette):]: #
+[- Monochromatic]: #
+[- Complementary]: #
+[- Analogous]: #
+[- Triadic]: #
+[- Tetradic]: #
+
+[Show your findings to the class.]: #
 
 [## Class takeaways]: #
 
@@ -33,4 +42,9 @@
 [## Homework]: #
 
 [### Stored Music CDs]: #
+[Rework the music CDs exercise(https://github.com/arturomorarioja/kea_js_music_cds_solution) but now storing the information in local storage.]: #
+[Proposed solution(https://github.com/arturomorarioja/kea_js_stored_music_cds_solution)]: #
+
 [### SPA Restaurant]: #
+[Rework the CSS Restaurant exercise(https://github.com/arturomorarioja/kea_css_restaurant_solution) but turning it into a Single Page Application (SPA)]: #
+[Proposed solution(https://github.com/arturomorarioja/kea_css_restaurant_spa)]: #
