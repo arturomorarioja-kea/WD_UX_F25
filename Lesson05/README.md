@@ -2,7 +2,7 @@
 
 # Lesson 5 - 27 February
 
-[## First Mandatory Assignment solutions]: #
+[## First Mandatory Assignment exercise solutions]: #
 [- Restaurant(https://github.com/arturomorarioja/kea_css_restaurant_solution)]: #
 [- Music CDs(https://github.com/arturomorarioja/kea_js_music_cds_solution)]: #
 
