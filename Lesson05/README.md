@@ -9,6 +9,7 @@
 [General feedback. Things to improve]: #
 [- Code should be divided into folders. As projects tend to grow, file organisation can soon become unmanageable]: #
 [- HTML5 code should not be mixed with XHTML code (e.g., it is `<img>`, not `<img />`]: #
+[- Text should be inside a pair of `<p>` tags, not directly inside a landmark element (e.g., `<footer>`)]: #
 [- Explore not-so-well-known HTML tags like `<blockquote>` or `<address>`]: #
 [- The submit button in a form must always be either an `<input>` or a `<button>` of `type="submit"`, so that an event listener is added to the `submit` event of the form instead of to the `click` event of the button]: #
 [- `<article>` is for groups of elements that are repeated (like cards or blog posts); <section> is for groups of elements that are not repeated (like a hero section or a descriptive text)]: #
