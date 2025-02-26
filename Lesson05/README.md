@@ -6,8 +6,17 @@
 [- Restaurant(https://github.com/arturomorarioja/kea_css_restaurant_solution)]: #
 [- Music CDs(https://github.com/arturomorarioja/kea_js_music_cds_solution)]: #
 
+[General feedback. Things to improve]: #
+[- Code should be divided into folders. As projects tend to grow, file organisation can soon become unmanageable]: #
+[- HTML5 code should not be mixed with XHTML code (e.g., it is `<img>`, not `<img />`]: #
+[- The submit button in a form must always be either an `<input>` or a `<button>` of `type="submit"`, so that an event listener is added to the `submit` event of the form instead of to the `click` event of the button]: #
+[- When an element will repeat in the page (e.g., the delete row button), it should have a class instead of an id, as ids must be unique]: #
+[- CSS custom properties (variables) must be used for all colours and fonts, and they must be used consistently: just one hardcoded colour can cause grave problems regarding code maintainability]: #
+[- In the listener of a form's submit event, input information must be gathered with `e.target.elementID` instead of `document.querySelector(`#elementID`). It is faster and more structured]: #
+
 [--> Food Repo. Make the about page a dialog. Responsiveness. clamp()]: #
 [--> Show code samples Append strategies 1 & 2, Document fragment, Basic fetch]: #
+[--> Show sessionStorage and localStorage]: #
 [--> Show code samples CSS3 Background(https://codepen.io/arturomorarioja/pen/xxQqRgY), CSS3 Responsive Font and Image(https://codepen.io/arturomorarioja/pen/MWzpJjG)]: #
 
 [## In-class exercise]: #
