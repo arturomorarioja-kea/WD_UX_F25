@@ -17,7 +17,7 @@ General feedback. Things to improve
 - The appropriate `type` besides `text` must be used for `<input>` elements (e.g., `email`, `number`, `search`, `phone`)
 - Always include some HTML input validation (e.g., `required`, `pattern`)
 - CSS custom properties (variables) must be used for all colours and fonts, and they must be used consistently: just one hardcoded colour can cause grave problems regarding code maintainability
-- In the listener of a form's submit event, input information must be gathered with `e.target.elementID` instead of `document.querySelector(`#elementID`). It is faster and more structured
+- In the listener of a form's submit event, input information must be gathered with `e.target.elementID` instead of `document.querySelector('#elementID')`. It is faster and more structured
 
 [--> Food Repo. Make the about page a dialog. Responsiveness. clamp()]: #
 [--> Show code samples Append strategies 1 & 2, Document fragment, Basic fetch]: #
