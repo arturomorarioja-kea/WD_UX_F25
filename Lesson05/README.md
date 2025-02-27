@@ -24,17 +24,17 @@ General feedback. Things to improve
 [--> Show sessionStorage and localStorage]: #
 [--> Show code samples CSS3 Background(https://codepen.io/arturomorarioja/pen/xxQqRgY), CSS3 Responsive Font and Image(https://codepen.io/arturomorarioja/pen/MWzpJjG)]: #
 
-[## In-class exercise]: #
+## In-class exercise
 
-[### Colour palettes]: #
-[Work in groups of 4. Find websites that use the following colour palettes (at least one website per palette):]: #
-[- Monochromatic]: #
-[- Complementary]: #
-[- Analogous]: #
-[- Triadic]: #
-[- Tetradic]: #
+### Colour palettes
+Work in groups of 4. Find websites that use the following colour palettes (at least one website per palette):
+- Monochromatic
+- Complementary
+- Analogous
+- Triadic
+- Tetradic
 
-[Show your findings to the class.]: #
+Show your findings to the class.
 
 [## Class takeaways]: #
 
