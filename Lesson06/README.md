@@ -6,6 +6,7 @@
 [- Stored Music CDs(https://github.com/arturomorarioja/kea_js_stored_music_cds_solution)]: #
 [- SPA Restaurant(https://github.com/arturomorarioja/kea_css_restaurant_spa)]: #
 
+[--> colours exercise: continue with Anders, Anton, etc ]: #
 [--> Food Repo. Make the about page a dialog. Responsiveness. clamp()]: #
 [--> Show code samples Append strategies 1 & 2, Document fragment, Basic fetch]: #
 [--> Show code samples CSS3 Background(https://codepen.io/arturomorarioja/pen/xxQqRgY), CSS3 Responsive Font and Image(https://codepen.io/arturomorarioja/pen/MWzpJjG)]: #
