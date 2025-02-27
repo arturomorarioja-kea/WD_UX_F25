@@ -19,10 +19,7 @@ General feedback. Things to improve
 - CSS custom properties (variables) must be used for all colours and fonts, and they must be used consistently: just one hardcoded colour can cause grave problems regarding code maintainability
 - In the listener of a form's submit event, input information must be gathered with `e.target.elementID` instead of `document.querySelector('#elementID')`. It is faster and more structured
 
-[--> Food Repo. Make the about page a dialog. Responsiveness. clamp()]: #
-[--> Show code samples Append strategies 1 & 2, Document fragment, Basic fetch]: #
 [--> Show sessionStorage and localStorage]: #
-[--> Show code samples CSS3 Background(https://codepen.io/arturomorarioja/pen/xxQqRgY), CSS3 Responsive Font and Image(https://codepen.io/arturomorarioja/pen/MWzpJjG)]: #
 
 ## In-class exercise
 
@@ -37,17 +34,6 @@ Work in groups of 4. Find websites that use the following colour palettes (at le
 Show your findings to the class.
 
 ## Class takeaways
-
-[### JavaScript]: #
-[Check out:]: #
-[- The slide deck **Introduction to JavaScript**, with especial attention to ES modules]: #
-[- Code samples:]: #
-[-->  - Append strategies(https://github.com/arturomorarioja/js_append_strategies)]: #
-[-->  - Append strategies 2(https://github.com/arturomorarioja/js_append_strategies_v2)]: #
-[-->  - Document fragment(https://codepen.io/arturomorarioja/pen/QwLaVMj)]: #
-[-->  - Basic fetch(https://github.com/arturomorarioja/js_basic_fetch)]: #
-[  - API consumption(https://github.com/arturomorarioja/kea_js_api_consumption)]: #
-[  - ES Modules(https://github.com/arturomorarioja/js_modules)]: #
 
 ### Visual Design
 Check out:
