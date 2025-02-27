@@ -36,7 +36,7 @@ Work in groups of 4. Find websites that use the following colour palettes (at le
 
 Show your findings to the class.
 
-[## Class takeaways]: #
+## Class takeaways
 
 [### JavaScript]: #
 [Check out:]: #
@@ -49,9 +49,9 @@ Show your findings to the class.
 [  - API consumption(https://github.com/arturomorarioja/kea_js_api_consumption)]: #
 [  - ES Modules(https://github.com/arturomorarioja/js_modules)]: #
 
-[### Visual Design]: #
-[Check out:]: #
-[- The slide deck **Visual Design - Colours and Typography**]: #
+### Visual Design
+Check out:
+- The slide deck **Visual Design - Colours and Typography**
 
 [## Homework]: #
 
