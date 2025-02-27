@@ -22,6 +22,10 @@
 
 [## Class takeaways]: #
 
+[### Information Architecture]: #
+[Check out:]: #
+[- The slide deck **Information Architecture - White Space**]: #
+
 [### JavaScript]: #
 [Check out:]: #
 [- The slide deck **Introduction to JavaScript**, with especial attention to ES modules]: #
