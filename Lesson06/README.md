@@ -10,6 +10,16 @@
 [--> Show code samples Append strategies 1 & 2, Document fragment, Basic fetch]: #
 [--> Show code samples CSS3 Background(https://codepen.io/arturomorarioja/pen/xxQqRgY), CSS3 Responsive Font and Image(https://codepen.io/arturomorarioja/pen/MWzpJjG)]: #
 
+[## In-class exercise]: #
+
+[### White space]: #
+[Work in groups of 4. Assess how white space has been used in the following websites, explain which methods have been used to remove visual clutter, and propose actions to remove it in the most cluttered websites:]: #
+[- https://www.thomann.de/gb/index.html]: #
+[https://www.zalando.dk/]: #'
+[https://www.momondo.dk/]: #
+
+[Show your findings to the class.]: #
+
 [## Class takeaways]: #
 
 [### JavaScript]: #
