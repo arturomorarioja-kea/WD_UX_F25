@@ -39,12 +39,14 @@ Show your findings to the class.
 Check out:
 - The slide deck **Visual Design - Colours and Typography**
 
-[## Homework]: #
+## Homework
 
-[### Stored Music CDs]: #
-[Rework the music CDs exercise(https://github.com/arturomorarioja/kea_js_music_cds_solution) but now storing the information in local storage.]: #
+### Stored Music CDs
+Rework the [music CDs exercise](https://github.com/arturomorarioja/kea_js_music_cds_solution) but now storing the information in local storage.
+
 [Proposed solution(https://github.com/arturomorarioja/kea_js_stored_music_cds_solution)]: #
 
-[### SPA Restaurant]: #
-[Rework the CSS Restaurant exercise(https://github.com/arturomorarioja/kea_css_restaurant_solution) but turning it into a Single Page Application (SPA)]: #
+### SPA Restaurant
+Rework the [CSS Restaurant exercise](https://github.com/arturomorarioja/kea_css_restaurant_solution) but turning it into a Single Page Application (SPA)
+
 [Proposed solution(https://github.com/arturomorarioja/kea_css_restaurant_spa)]: #
