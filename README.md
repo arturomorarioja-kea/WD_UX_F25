@@ -13,4 +13,6 @@ Make sure to `git clone` it and `git pull` the latest version every week.
 - [Lesson 1](https://github.com/arturomorarioja-kea/WD_UX_F25/blob/main/Lesson01/README.md) (30 January): Basic web application architecture. Introduction to HTML and CSS
 - [Lesson 2](https://github.com/arturomorarioja-kea/WD_UX_F25/blob/main/Lesson02/README.md) (6 February): CSS. Introduction to JavaScript. Form processing
 - [Lesson 3](https://github.com/arturomorarioja-kea/WD_UX_F25/blob/main/Lesson03/README.md) (13 February): JS: API consumption
-- [Lesson 4](https://github.com/arturomorarioja-kea/WD_UX_F25/blob/main/Lesson04/README.md)
+- [Lesson 4](https://github.com/arturomorarioja-kea/WD_UX_F25/blob/main/Lesson04/README.md) (20 February): CSS Flexbox. Navigation and Wayfinding
+- [Lesson 5](https://github.com/arturomorarioja-kea/WD_UX_F25/blob/main/Lesson05/README.md) (27 February): Colour palettes. Typography
+- [Lesson 6](https://github.com/arturomorarioja-kea/WD_UX_F25/blob/main/Lesson06/README.md) (6 March)
