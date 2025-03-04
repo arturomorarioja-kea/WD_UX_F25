@@ -10,6 +10,7 @@
 [--> Food Repo. Make the about page a dialog. Responsiveness. clamp()]: #
 [--> Show code samples Append strategies 1 & 2, Document fragment, Basic fetch]: #
 [--> Show code samples CSS3 Background(https://codepen.io/arturomorarioja/pen/xxQqRgY), CSS3 Responsive Font and Image(https://codepen.io/arturomorarioja/pen/MWzpJjG)]: #
+[--> Show froggy, diner...]: #
 
 [## In-class exercises]: #
 
@@ -44,3 +45,7 @@
 [-->  - Basic fetch(https://github.com/arturomorarioja/js_basic_fetch)]: #
 [  - API consumption(https://github.com/arturomorarioja/kea_js_api_consumption)]: #
 [  - ES Modules(https://github.com/arturomorarioja/js_modules)]: #
+
+[## Homework]: #
+
+[--> CSS Diner, froggy...]: #
