@@ -70,3 +70,7 @@
 [- Coding Fantasy(https://codingfantasy.com/):]: #
 [  - Flexbox Adventure(https://codingfantasy.com/games/flexboxadventure)]: #
 [  - CSS Grid Attack(https://codingfantasy.com/games/css-grid-attack)]: #
+
+[First Mandatory Assignment:]: #
+[- Keep working on the API consumption exercise(https://kea-fronter.itslearning.com/ContentArea/ContentArea.aspx?LocationID=7023&LocationType=1)]: #
+[- Tristan Wede Lind responsive SPA application(https://kea-fronter.itslearning.com/ContentArea/ContentArea.aspx?LocationID=7023&LocationType=1)]: #
