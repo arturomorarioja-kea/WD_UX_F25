@@ -7,10 +7,12 @@
 [- SPA Restaurant(https://github.com/arturomorarioja/kea_css_restaurant_spa)]: #
 
 [--> colours exercise: continue with Anders, Anton, etc ]: #
+[--> grid. Practice in the https://codepen.io/arturomorarioja/pen/poBEExB?editors=1100]: #
+[--> Show froggy, diner...]: #
+
 [--> Food Repo. Make the about page a dialog. Responsiveness. clamp()]: #
 [--> Show code samples Append strategies 1 & 2, Document fragment, Basic fetch]: #
 [--> Show code samples CSS3 Background(https://codepen.io/arturomorarioja/pen/xxQqRgY), CSS3 Responsive Font and Image(https://codepen.io/arturomorarioja/pen/MWzpJjG)]: #
-[--> Show froggy, diner...]: #
 
 [## In-class exercises]: #
 
