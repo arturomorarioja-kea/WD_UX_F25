@@ -19,8 +19,6 @@ General feedback. Things to improve
 - CSS custom properties (variables) must be used for all colours and fonts, and they must be used consistently: just one hardcoded colour can cause grave problems regarding code maintainability
 - In the listener of a form's submit event, input information must be gathered with `e.target.elementID` instead of `document.querySelector('#elementID')`. It is faster and more structured
 
-[--> Show sessionStorage and localStorage]: #
-
 ## In-class exercise
 
 ### Colour palettes
@@ -44,9 +42,5 @@ Check out:
 ### Stored Music CDs
 Rework the [music CDs exercise](https://github.com/arturomorarioja/kea_js_music_cds_solution) but now storing the information in local storage.
 
-[Proposed solution(https://github.com/arturomorarioja/kea_js_stored_music_cds_solution)]: #
-
 ### SPA Restaurant
 Rework the [CSS Restaurant exercise](https://github.com/arturomorarioja/kea_css_restaurant_solution) but turning it into a Single Page Application (SPA)
-
-[Proposed solution(https://github.com/arturomorarioja/kea_css_restaurant_spa)]: #
