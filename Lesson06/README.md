@@ -35,6 +35,11 @@
 [Check out:]: #
 [- The slide deck **Information Architecture - White Space**]: #
 
+[### Responsiveness]: #
+[Check out:]: #
+[- The slide deck **Responsive Web Design**, with especial attention to CSS Grid]: #
+[- The code samples Grid Template Columns(https://codepen.io/arturomorarioja/pen/wvRmrjj) and Grid Template Areas(https://codepen.io/arturomorarioja/pen/LYXyVXJ)]: #
+
 [### JavaScript]: #
 [Check out:]: #
 [- The slide deck **Introduction to JavaScript**, with especial attention to ES modules]: #
@@ -48,4 +53,20 @@
 
 [## Homework]: #
 
-[--> CSS Diner, froggy...]: #
+[Practice responsiveness with CSS:]: #
+[- CSS Diner(https://flukeout.github.io/). Practice selecting elements]: #
+[- MDN Web Docs(https://developer.mozilla.org/en-US/). Test your skills:]: #
+[  - Positioning(https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Position_skills)]: #
+[  - Floats(https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats_skills)]: #
+[  - Responsive web design and media queries(https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/rwd_skills):]: #
+[    - Without flex and grid (the cards may have different height)]: #
+[    - With flex and grid]: #
+[  - Proposed solutions(https://codepen.io/collection/NqBvMy)]: #
+[  - Flexbox(https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox_skills)]: #
+[  - Grid(https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grid_skills)]: #
+[- Codepip(https://codepip.com/):]: #
+[  - Flexbox Froggy(https://flexboxfroggy.com/)]: #
+[  - Grid Garden(https://cssgridgarden.com/)]: #
+[- Coding Fantasy(https://codingfantasy.com/):]: #
+[  - Flexbox Adventure(https://codingfantasy.com/games/flexboxadventure)]: #
+[  - CSS Grid Attack(https://codingfantasy.com/games/css-grid-attack)]: #
