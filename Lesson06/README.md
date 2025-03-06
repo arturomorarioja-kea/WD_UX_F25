@@ -2,9 +2,9 @@
 
 # Lesson 6 - 6 March
 
-[## Exercise solutions]: #
-[- Stored Music CDs(https://github.com/arturomorarioja/kea_js_stored_music_cds_solution)]: #
-[- SPA Restaurant(https://github.com/arturomorarioja/kea_css_restaurant_spa)]: #
+## Exercise solutions
+- [Stored Music CDs](https://github.com/arturomorarioja/kea_js_stored_music_cds_solution)
+- [SPA Restaurant](https://github.com/arturomorarioja/kea_css_restaurant_spa)
 
 [--> colours exercise: continue with Anders, Anton, etc ]: #
 [--> grid. Practice in the https://codepen.io/arturomorarioja/pen/poBEExB?editors=1100]: #
@@ -14,12 +14,12 @@
 [--> Show code samples Append strategies 1 & 2, Document fragment, Basic fetch]: #
 [--> Show code samples CSS3 Background(https://codepen.io/arturomorarioja/pen/xxQqRgY), CSS3 Responsive Font and Image(https://codepen.io/arturomorarioja/pen/MWzpJjG)]: #
 
-[## In-class exercises]: #
+## In-class exercises
 
-[### CSS Grid]: #
+### CSS Grid
 
-[Complete the code in https://github.com/arturomorarioja/kea_grid_practice_initial using grid and flexbox so that Michel Foucault’s bio page looks like this:]: #
-[!image(https://github.com/user-attachments/assets/51cdb608-4ea0-4b35-8450-05fe9e2288d7)]: #
+Complete the code in https://github.com/arturomorarioja/kea_grid_practice_initial using grid and flexbox so that Michel Foucault’s bio page looks like this:
+![image](https://github.com/user-attachments/assets/51cdb608-4ea0-4b35-8450-05fe9e2288d7)
 
 [Proposed solution(https://github.com/arturomorarioja/kea_grid_practice)]: #
 
