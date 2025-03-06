@@ -54,6 +54,6 @@ Practice responsiveness with CSS:
   - [Flexbox Adventure](https://codingfantasy.com/games/flexboxadventure)
   - [CSS Grid Attack](https://codingfantasy.com/games/css-grid-attack)
 
-First Mandatory Assignment:
+### [First Mandatory Assignment](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344451)
 - Keep working on the [API consumption exercise](https://kea-fronter.itslearning.com/ContentArea/ContentArea.aspx?LocationID=7023&LocationType=1)
 - [Tristan Wede Lind responsive SPA application](https://kea-fronter.itslearning.com/ContentArea/ContentArea.aspx?LocationID=7023&LocationType=1)
