@@ -19,7 +19,7 @@
 Complete the code in https://github.com/arturomorarioja/kea_grid_practice_initial using grid and flexbox so that Michel Foucault’s bio page looks like this:
 ![image](https://github.com/user-attachments/assets/51cdb608-4ea0-4b35-8450-05fe9e2288d7)
 
-[Proposed solution(https://github.com/arturomorarioja/kea_grid_practice)]: #
+[Proposed solution](https://github.com/arturomorarioja/kea_grid_practice)
 
 [### White space]: #
 [Work in groups of 4. Assess how white space has been used in the following websites, explain which methods have been used to remove visual clutter, and propose actions to remove it in the most cluttered websites:]: #
