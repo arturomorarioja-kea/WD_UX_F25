@@ -53,6 +53,8 @@ Practice responsiveness with CSS:
 - [Coding Fantasy](https://codingfantasy.com/):
   - [Flexbox Adventure](https://codingfantasy.com/games/flexboxadventure)
   - [CSS Grid Attack](https://codingfantasy.com/games/css-grid-attack)
+ 
+Finish the white space exercise so that we can discuss your findings next week.
 
 ### [First Mandatory Assignment](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344451)
 - Keep working on the [API consumption exercise](https://kea-fronter.itslearning.com/ContentArea/ContentArea.aspx?LocationID=7023&LocationType=1)
