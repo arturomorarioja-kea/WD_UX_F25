@@ -6,8 +6,6 @@
 - [Stored Music CDs](https://github.com/arturomorarioja/kea_js_stored_music_cds_solution)
 - [SPA Restaurant](https://github.com/arturomorarioja/kea_css_restaurant_spa)
 
-[--> colours exercise: continue with Anders, Anton, etc ]: #
-[--> grid. Practice in the https://codepen.io/arturomorarioja/pen/poBEExB?editors=1100]: #
 [--> Show froggy, diner...]: #
 
 [--> Food Repo. Make the about page a dialog. Responsiveness. clamp()]: #
@@ -31,16 +29,16 @@ Complete the code in https://github.com/arturomorarioja/kea_grid_practice_initia
 
 [Show your findings to the class.]: #
 
-[## Class takeaways]: #
+## Class takeaways
 
 [### Information Architecture]: #
 [Check out:]: #
 [- The slide deck **Information Architecture - White Space**]: #
 
-[### Responsiveness]: #
-[Check out:]: #
-[- The slide deck **Responsive Web Design**, with especial attention to CSS Grid]: #
-[- The code samples Grid Template Columns(https://codepen.io/arturomorarioja/pen/wvRmrjj) and Grid Template Areas(https://codepen.io/arturomorarioja/pen/LYXyVXJ)]: #
+### Responsiveness
+Check out:
+- The slide deck **Responsive Web Design**, with especial attention to CSS Grid
+- The code samples [Grid Template Columns](https://codepen.io/arturomorarioja/pen/wvRmrjj) and [Grid Template Areas](https://codepen.io/arturomorarioja/pen/LYXyVXJ)
 
 [### JavaScript]: #
 [Check out:]: #
