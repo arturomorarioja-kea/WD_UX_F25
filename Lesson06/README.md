@@ -6,10 +6,6 @@
 - [Stored Music CDs](https://github.com/arturomorarioja/kea_js_stored_music_cds_solution)
 - [SPA Restaurant](https://github.com/arturomorarioja/kea_css_restaurant_spa)
 
-[--> Food Repo. Make the about page a dialog. Responsiveness. clamp()]: #
-[--> Show code samples Append strategies 1 & 2, Document fragment, Basic fetch]: #
-[--> Show code samples CSS3 Background(https://codepen.io/arturomorarioja/pen/xxQqRgY), CSS3 Responsive Font and Image(https://codepen.io/arturomorarioja/pen/MWzpJjG)]: #
-
 ## In-class exercises
 
 ### CSS Grid
@@ -25,29 +21,18 @@ Work in groups of 4. Assess how white space has been used in the following websi
 - https://www.zalando.dk/
 - https://www.momondo.dk/
 
-Show your findings to the class.
+Show your findings to the class next week.
 
 ## Class takeaways
 
-[### Information Architecture]: #
-[Check out:]: #
-[- The slide deck **Information Architecture - White Space**]: #
+### Information Architecture
+Check out:
+- The slide deck **Information Architecture - White Space**
 
 ### Responsiveness
 Check out:
 - The slide deck **Responsive Web Design**, with especial attention to CSS Grid
 - The code samples [Grid Template Columns](https://codepen.io/arturomorarioja/pen/wvRmrjj) and [Grid Template Areas](https://codepen.io/arturomorarioja/pen/LYXyVXJ)
-
-[### JavaScript]: #
-[Check out:]: #
-[- The slide deck **Introduction to JavaScript**, with especial attention to ES modules]: #
-[- Code samples:]: #
-[-->  - Append strategies(https://github.com/arturomorarioja/js_append_strategies)]: #
-[-->  - Append strategies 2(https://github.com/arturomorarioja/js_append_strategies_v2)]: #
-[-->  - Document fragment(https://codepen.io/arturomorarioja/pen/QwLaVMj)]: #
-[-->  - Basic fetch(https://github.com/arturomorarioja/js_basic_fetch)]: #
-[  - API consumption(https://github.com/arturomorarioja/kea_js_api_consumption)]: #
-[  - ES Modules(https://github.com/arturomorarioja/js_modules)]: #
 
 ## Homework
 
@@ -69,6 +54,6 @@ Practice responsiveness with CSS:
   - [Flexbox Adventure](https://codingfantasy.com/games/flexboxadventure)
   - [CSS Grid Attack](https://codingfantasy.com/games/css-grid-attack)
 
-[First Mandatory Assignment:]: #
-[- Keep working on the API consumption exercise(https://kea-fronter.itslearning.com/ContentArea/ContentArea.aspx?LocationID=7023&LocationType=1)]: #
-[- Tristan Wede Lind responsive SPA application(https://kea-fronter.itslearning.com/ContentArea/ContentArea.aspx?LocationID=7023&LocationType=1)]: #
+First Mandatory Assignment:
+- Keep working on the [API consumption exercise](https://kea-fronter.itslearning.com/ContentArea/ContentArea.aspx?LocationID=7023&LocationType=1)
+- [Tristan Wede Lind responsive SPA application](https://kea-fronter.itslearning.com/ContentArea/ContentArea.aspx?LocationID=7023&LocationType=1)
