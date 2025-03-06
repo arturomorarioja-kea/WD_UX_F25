@@ -6,8 +6,6 @@
 - [Stored Music CDs](https://github.com/arturomorarioja/kea_js_stored_music_cds_solution)
 - [SPA Restaurant](https://github.com/arturomorarioja/kea_css_restaurant_spa)
 
-[--> Show froggy, diner...]: #
-
 [--> Food Repo. Make the about page a dialog. Responsiveness. clamp()]: #
 [--> Show code samples Append strategies 1 & 2, Document fragment, Basic fetch]: #
 [--> Show code samples CSS3 Background(https://codepen.io/arturomorarioja/pen/xxQqRgY), CSS3 Responsive Font and Image(https://codepen.io/arturomorarioja/pen/MWzpJjG)]: #
@@ -21,13 +19,13 @@ Complete the code in https://github.com/arturomorarioja/kea_grid_practice_initia
 
 [Proposed solution](https://github.com/arturomorarioja/kea_grid_practice)
 
-[### White space]: #
-[Work in groups of 4. Assess how white space has been used in the following websites, explain which methods have been used to remove visual clutter, and propose actions to remove it in the most cluttered websites:]: #
-[- https://www.thomann.de/gb/index.html]: #
-[https://www.zalando.dk/]: #'
-[https://www.momondo.dk/]: #
+### White space
+Work in groups of 4. Assess how white space has been used in the following websites, explain which methods have been used to remove visual clutter, and propose actions to remove it in the most cluttered websites:
+- https://www.thomann.de/gb/index.html
+- https://www.zalando.dk/
+- https://www.momondo.dk/
 
-[Show your findings to the class.]: #
+Show your findings to the class.
 
 ## Class takeaways
 
