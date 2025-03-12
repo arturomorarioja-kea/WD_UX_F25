@@ -15,4 +15,5 @@ Make sure to `git clone` it and `git pull` the latest version every week.
 - [Lesson 3](https://github.com/arturomorarioja-kea/WD_UX_F25/blob/main/Lesson03/README.md) (13 February): JS: API consumption
 - [Lesson 4](https://github.com/arturomorarioja-kea/WD_UX_F25/blob/main/Lesson04/README.md) (20 February): CSS Flexbox. Navigation and Wayfinding
 - [Lesson 5](https://github.com/arturomorarioja-kea/WD_UX_F25/blob/main/Lesson05/README.md) (27 February): Colour palettes. Typography
-- [Lesson 6](https://github.com/arturomorarioja-kea/WD_UX_F25/blob/main/Lesson06/README.md) (6 March)
+- [Lesson 6](https://github.com/arturomorarioja-kea/WD_UX_F25/blob/main/Lesson06/README.md) (6 March): CSS Grid. White space and cluttering avoidance
+- [Lesson 7](https://github.com/arturomorarioja-kea/WD_UX_F25/blob/main/Lesson07/README.md) (13 March)
