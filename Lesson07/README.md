@@ -11,6 +11,7 @@
 [--> first npm init, then npm init @eslint/config@latest]: #
 
 [--> Food Repo. Make the about page a dialog. Responsiveness. clamp()]: #
+[--> Food Repo. Meal 52824 has null ingredients and a non-available video]: #
 [--> Show code samples Append strategies 1 & 2, Document fragment, Basic fetch]: #
 [--> Show code samples CSS3 Background(https://codepen.io/arturomorarioja/pen/xxQqRgY), CSS3 Responsive Font and Image(https://codepen.io/arturomorarioja/pen/MWzpJjG)]: #
 
