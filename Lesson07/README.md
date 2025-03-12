@@ -5,6 +5,7 @@
 [--> White space exercise. show student's work]: #
 
 [--> download npm slides]: #
+[--> git clone https://github.com/arturomorarioja/eslint_sample]: #
 [--> npm installation. Try node -v and npm -v]: #
 [--> MEME node_modules]: #
 [--> first npm init, then npm init @eslint/config@latest]: #
@@ -29,4 +30,4 @@
 [  - ES Modules(https://github.com/arturomorarioja/js_modules)]: #
 
 [## Homework]: #
-[Incorporate ESLint to your projects and try different rules]: #
+[Incorporate ESLint to your projects and try different rules. Use the ESLint configuration file sample(https://github.com/arturomorarioja/eslint_sample) for inspiration.]: #
