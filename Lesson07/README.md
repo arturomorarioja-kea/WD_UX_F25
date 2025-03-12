@@ -3,12 +3,15 @@
 # Lesson 7 - 13 March
 
 [--> White space exercise. show student's work]: #
+
+[--> download npm slides]: #
+[--> npm installation. Try node -v and npm -v]: #
+[--> MEME node_modules]: #
+[--> first npm init, then npm init @eslint/config@latest]: #
+
 [--> Food Repo. Make the about page a dialog. Responsiveness. clamp()]: #
 [--> Show code samples Append strategies 1 & 2, Document fragment, Basic fetch]: #
 [--> Show code samples CSS3 Background(https://codepen.io/arturomorarioja/pen/xxQqRgY), CSS3 Responsive Font and Image(https://codepen.io/arturomorarioja/pen/MWzpJjG)]: #
-
-[--> npm installation. Try node -v and npm -v]: #
-[--> MEME node_modules]: #
 
 [## Class takeaways]: #
 
