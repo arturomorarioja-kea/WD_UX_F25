@@ -10,8 +10,10 @@
 [--> MEME node_modules]: #
 [--> first npm init, then npm init @eslint/config@latest]: #
 
+[--> git clone https://github.com/arturomorarioja/web_f25_ux_food_repo_w11]: #
 [--> Food Repo. Make the about page a dialog. Responsiveness. clamp()]: #
 [--> Food Repo. Meal 52824 has null ingredients and a non-available video]: #
+[--> Food Repo. Video thumbnail: https://img.youtube.com/vi/GsB8ZI5vREA/mqdefault.jpg]: #
 [--> Show code samples Append strategies 1 & 2, Document fragment, Basic fetch]: #
 [--> Show code samples CSS3 Background(https://codepen.io/arturomorarioja/pen/xxQqRgY), CSS3 Responsive Font and Image(https://codepen.io/arturomorarioja/pen/MWzpJjG)]: #
 
