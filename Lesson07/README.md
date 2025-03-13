@@ -2,12 +2,6 @@
 
 # Lesson 7 - 13 March
 
-[--> White space exercise. show student's work]: #
-
-[--> npm installation. Try node -v and npm -v]: #
-[--> MEME node_modules]: #
-[--> first npm init, then npm init @eslint/config@latest]: #
-
 [--> Food Repo. Make the about page a dialog. Responsiveness. clamp()]: #
 [--> Food Repo. Meal 52824 has null ingredients and a non-available video]: #
 [--> Food Repo. Video thumbnail: https://img.youtube.com/vi/GsB8ZI5vREA/mqdefault.jpg]: #
