@@ -18,8 +18,8 @@
 
 ### JavaScript
 Check out:
-[- The slide deck **Introduction to JavaScript**, with especial attention to ES modules]: #
 
+[- The slide deck **Introduction to JavaScript**, with especial attention to ES modules]: #
 - The slide decks **npm** and **ESLint**
 - Remember to never submit the `node_modules` folder to any kind of code repo
 
