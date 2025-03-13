@@ -21,6 +21,7 @@ Check out:
 [- The slide deck **Introduction to JavaScript**, with especial attention to ES modules]: #
 - The slide decks **npm** and **ESLint**
 - Remember to never submit the `node_modules` folder to any kind of code repo
+
 [- Code samples:]: #
 [-->  - Append strategies(https://github.com/arturomorarioja/js_append_strategies)]: #
 [-->  - Append strategies 2(https://github.com/arturomorarioja/js_append_strategies_v2)]: #
