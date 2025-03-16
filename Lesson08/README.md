@@ -2,6 +2,8 @@
 
 # Lesson 8 - 20 March
 
+[--> git pull tmdb]: #
+
 [--> Food Repo. clamp()]: #
 [--> Food Repo. Meal 52824 has null ingredients and a non-available video]: #
 [--> Food Repo. Video thumbnail: https://img.youtube.com/vi/GsB8ZI5vREA/mqdefault.jpg]: #
