@@ -3,6 +3,7 @@
 # Lesson 8 - 20 March
 
 [--> git pull tmdb]: #
+[--> feedback: absolute paths / innerHTML vs template / XHTML / DOMContentLoaded / API key in GitHub / explain response error handling / CSS variables ]: #
 
 [--> Food Repo. clamp()]: #
 [--> Food Repo. Meal 52824 has null ingredients and a non-available video]: #
