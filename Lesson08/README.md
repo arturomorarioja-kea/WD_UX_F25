@@ -16,8 +16,9 @@
 [- We are using JavaScript modules, so `DOMContentLoaded` is not necessary. Modules are loaded deferredly by default, so they will start executing only after the DOM content has been loaded]: #
 
 [## Class takeaways]: #
-[Check out:]: #
-[- The slide deck **Performance and Sustainability**]: #
+[Check out the following slide decks:]: #
+[- **Performance and Sustainability**]: #
+[- **Information Architecture - Site Structure**]: #
 [Code samples:]: #
 [- Deferred CSS load(https://github.com/arturomorarioja/css3_deferred)]: #
 [- Responsive font and image(https://codepen.io/arturomorarioja/pen/MWzpJjG)]: #
@@ -27,5 +28,10 @@
 
 [## Homework]: #
 
-[** Food Repo **]: #
+[### Information Architecture]: #
+[Create a sitemap for a popular website of your choice (not one with too many information levels, though). Use the sitemap format that you think more appropriate.]: #
+[Work in groups of 4.]: #
+[Send me a pdf file with your sitemap on Teams, so that next week we can discuss your work]: #
+
+[### Food Repo]: #
 [Next week we are adding another API, this one internal, for user and favourites management. Find it here(https://github.com/arturomorarioja/food_repo_users_api_v2) and check out its endpoint and installation explanations at `README.md`]: #
