@@ -19,6 +19,10 @@
 [Check out:]: #
 [- The slide deck **Performance and Sustainability**]: #
 [Code samples:]: #
+[- Deferred CSS load(https://github.com/arturomorarioja/css3_deferred)]: #
+[- Responsive font and image(https://codepen.io/arturomorarioja/pen/MWzpJjG)]: #
+[- Lazy loading of images in HTML5(https://github.com/arturomorarioja/html5_lazy_loading)]: #
+[- ES Modules(https://github.com/arturomorarioja/js_modules)]: #
 
 [## Homework]: #
 
