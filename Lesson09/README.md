@@ -17,6 +17,5 @@
 [-->  - Document fragment(https://codepen.io/arturomorarioja/pen/QwLaVMj)]: #
 [-->  - Basic fetch(https://github.com/arturomorarioja/js_basic_fetch)]: #
 [  - API consumption(https://github.com/arturomorarioja/kea_js_api_consumption)]: #
-[  - ES Modules(https://github.com/arturomorarioja/js_modules)]: #
 
 [## Homework]: #
