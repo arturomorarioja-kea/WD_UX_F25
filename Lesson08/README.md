@@ -4,6 +4,7 @@
 
 [--> git pull tmdb]: #
 [--> feedback: explain response error handling]: #
+[--> hang Lisa Maria Martin's audit xls in Teams]: #
 
 [## First Mandatory Assignment exercise solution]: #
 [- API Consumption(https://github.com/arturomorarioja/js_tmdb)]: #
