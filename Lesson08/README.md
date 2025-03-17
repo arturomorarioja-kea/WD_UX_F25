@@ -31,3 +31,8 @@
 [-->  - Basic fetch(https://github.com/arturomorarioja/js_basic_fetch)]: #
 [  - API consumption(https://github.com/arturomorarioja/kea_js_api_consumption)]: #
 [  - ES Modules(https://github.com/arturomorarioja/js_modules)]: #
+
+[## Homework]: #
+
+[** Food Repo **]: #
+[We are adding another API, this one internal, for user and favourites management. Find it here(https://github.com/arturomorarioja/food_repo_users_api_v2) and run it on Docker: `docker-compose up -d`]: #
