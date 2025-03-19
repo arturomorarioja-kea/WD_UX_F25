@@ -2,6 +2,7 @@
 
 # Lesson 8 - 20 March
 
+[--> a company I visited needs old people UX]: #
 [--> git pull tmdb]: #
 [--> feedback: explain response error handling]: #
 [--> hang Lisa Maria Martin's audit xls in Teams]: #
