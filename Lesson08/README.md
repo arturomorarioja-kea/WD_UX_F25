@@ -22,16 +22,17 @@ General feedback. Things to improve:
   - [Web Page Test](https://www.webpagetest.org/). Use a slow connection (3G from Mumbai)
   - [Pingdom](https://tools.pingdom.com/). Test from "Pacific - Australia - Sydney"
 
-[## Class takeaways]: #
-[Check out the following slide decks:]: #
-[- **Performance and Sustainability**]: #
+## Class takeaways
+Check out the following slide decks:
+- **Performance and Sustainability**
 [- **Information Architecture - Site Structure**]: #
-[Code samples:]: #
-[- Deferred CSS load(https://github.com/arturomorarioja/css3_deferred)]: #
-[- Responsive font and image(https://codepen.io/arturomorarioja/pen/MWzpJjG)]: #
-[- Lazy loading of images in HTML5(https://github.com/arturomorarioja/html5_lazy_loading)]: #
-[- ES Modules(https://github.com/arturomorarioja/js_modules), v2(https://github.com/arturomorarioja/js_modules_v2), v3(https://github.com/arturomorarioja/js_modules_v3)]: #
-[- JavaScript lazy loading with `import()`(https://github.com/arturomorarioja/js_import)]: #
+
+Code samples:
+- Deferred CSS load(https://github.com/arturomorarioja/css3_deferred)
+- Responsive font and image(https://codepen.io/arturomorarioja/pen/MWzpJjG)
+- Lazy loading of images in HTML5(https://github.com/arturomorarioja/html5_lazy_loading)
+- ES Modules(https://github.com/arturomorarioja/js_modules), v2(https://github.com/arturomorarioja/js_modules_v2), v3(https://github.com/arturomorarioja/js_modules_v3)
+- JavaScript lazy loading with `import()`(https://github.com/arturomorarioja/js_import)
 
 [## Homework]: #
 
