@@ -22,6 +22,7 @@ General feedback. Things to improve:
 
 ## Class takeaways
 Check out the following slide decks:
+- ES modules in **Introduction to JavaScript**
 - **Performance and Sustainability**
 - **Information Architecture - Site Structure**
 
