@@ -6,6 +6,7 @@
 
 ## First Mandatory Assignment exercise solution
 - [API Consumption](https://github.com/arturomorarioja/js_tmdb)
+
 General feedback. Things to improve:
 - Do never use absolute paths (e.g., `"/img"`). Use relative paths instead (e.g., `"img"` or `"./img"`)
 - Try to avoid the use of `innerHTML` when injecting variable values that come from external sources (e.g., user input, an external API). Use a `<template>` and `cloneNode()` instead
