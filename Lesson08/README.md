@@ -25,7 +25,7 @@ General feedback. Things to improve:
 ## Class takeaways
 Check out the following slide decks:
 - **Performance and Sustainability**
-[- **Information Architecture - Site Structure**
+- **Information Architecture - Site Structure**
 
 Code samples:
 - [Deferred CSS load](https://github.com/arturomorarioja/css3_deferred)
