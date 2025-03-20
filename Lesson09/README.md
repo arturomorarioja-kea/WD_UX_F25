@@ -2,15 +2,17 @@
 
 # Lesson 9 - 27 March
 
+[--> Check out solutions to the IA sitemap exercise]: #
+
 [--> Food Repo. clamp()]: #
-[--> Food Repo. Meal 52824 has null ingredients and a non-available video]: #
+[--> Food Repo. Meal 52824 has a non-available video]: #
 [--> Food Repo. Video thumbnail: https://img.youtube.com/vi/GsB8ZI5vREA/mqdefault.jpg]: #
 [--> Show code samples Append strategies 1 & 2, Document fragment, Basic fetch]: #
-[--> Show code samples CSS3 Background(https://codepen.io/arturomorarioja/pen/xxQqRgY), CSS3 Responsive Font and Image(https://codepen.io/arturomorarioja/pen/MWzpJjG)]: #
+[--> Show code samples CSS3 Background(https://codepen.io/arturomorarioja/pen/xxQqRgY)]: #
 
 [## Class takeaways]: #
 [Check out:]: #
-[- The slide deck **Introduction to JavaScript**, with especial attention to ES modules]: #
+[- The slide deck ** **]: #
 [Code samples:]: #
 [-->  - Append strategies(https://github.com/arturomorarioja/js_append_strategies)]: #
 [-->  - Append strategies 2(https://github.com/arturomorarioja/js_append_strategies_v2)]: #
