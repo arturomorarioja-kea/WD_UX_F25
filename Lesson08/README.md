@@ -34,15 +34,15 @@ Code samples:
 - [ES Modules](https://github.com/arturomorarioja/js_modules), [v2](https://github.com/arturomorarioja/js_modules_v2), [v3](https://github.com/arturomorarioja/js_modules_v3)
 - [JavaScript lazy loading with `import()`](https://github.com/arturomorarioja/js_import)
 
-[## Homework]: #
+## Homework
 
 [### Information Architecture]: #
 [Create a sitemap for a popular website of your choice (not one with too many information levels, though). Use the sitemap format that you think more appropriate.]: #
 [Work in groups of 4.]: #
 [Send me a pdf file with your sitemap on Teams, so that next week we can discuss your work]: #
 
-[### Performance and Sustainability]: #
-[Run performance tests on your own websites. Find performance errors and fix them.]: #
+### Performance and Sustainability
+Run performance tests on your own websites. Find performance errors and fix them.
 
 [### Food Repo]: #
 [Next week we are adding another API, this one internal, for user and favourites management. Find it here(https://github.com/arturomorarioja/food_repo_users_api_v2) and check out its endpoint and installation explanations at `README.md`]: #
