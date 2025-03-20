@@ -28,11 +28,11 @@ Check out the following slide decks:
 [- **Information Architecture - Site Structure**]: #
 
 Code samples:
-- Deferred CSS load(https://github.com/arturomorarioja/css3_deferred)
-- Responsive font and image(https://codepen.io/arturomorarioja/pen/MWzpJjG)
-- Lazy loading of images in HTML5(https://github.com/arturomorarioja/html5_lazy_loading)
-- ES Modules(https://github.com/arturomorarioja/js_modules), v2(https://github.com/arturomorarioja/js_modules_v2), v3(https://github.com/arturomorarioja/js_modules_v3)
-- JavaScript lazy loading with `import()`(https://github.com/arturomorarioja/js_import)
+- [Deferred CSS load](https://github.com/arturomorarioja/css3_deferred)
+- [Responsive font and image](https://codepen.io/arturomorarioja/pen/MWzpJjG)
+- [Lazy loading of images in HTML5](https://github.com/arturomorarioja/html5_lazy_loading)
+- [ES Modules](https://github.com/arturomorarioja/js_modules), [v2](https://github.com/arturomorarioja/js_modules_v2), [v3](https://github.com/arturomorarioja/js_modules_v3)
+- [JavaScript lazy loading with `import()`](https://github.com/arturomorarioja/js_import)
 
 [## Homework]: #
 
