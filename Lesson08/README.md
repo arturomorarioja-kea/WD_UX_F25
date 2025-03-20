@@ -16,11 +16,11 @@ General feedback. Things to improve:
 - Do not expose your private API key in a public GitHub repo. Anyone can steal it and try to attack TMDB on your behalf
 - We are using JavaScript modules, so `DOMContentLoaded` is not necessary. Modules are loaded deferredly by default, so they will start executing only after the DOM content has been loaded
 
-[## In-class exercise]: #
-[- Run performance tests on https://landonhotel.com/ (sample website by LinkedIn Learning) and https://www.berlingske.dk/. Analyse the results and figure out potential performance problems. Use the following:]: #
-[  - Google Lighthouse]: #
-[  - Web Page Test(https://www.webpagetest.org/). Use a slow connection (3G from Mumbai)]: #
-[  - Pingdom(https://tools.pingdom.com/). Test from "Pacific - Australia - Sydney"]: #
+## In-class exercise
+- Run performance tests on https://landonhotel.com/ (sample website by LinkedIn Learning) and https://www.berlingske.dk/. Analyse the results and figure out potential performance problems. Use the following:
+  - Google Lighthouse
+  - [Web Page Test](https://www.webpagetest.org/). Use a slow connection (3G from Mumbai)
+  - [Pingdom](https://tools.pingdom.com/). Test from "Pacific - Australia - Sydney"
 
 [## Class takeaways]: #
 [Check out the following slide decks:]: #
