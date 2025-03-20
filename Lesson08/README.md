@@ -2,8 +2,6 @@
 
 # Lesson 8 - 20 March
 
-[--> hang Lisa Maria Martin's audit xls in Teams]: #
-
 ## First Mandatory Assignment exercise solution
 - [API Consumption](https://github.com/arturomorarioja/js_tmdb)
 
