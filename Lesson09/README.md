@@ -21,3 +21,4 @@
 [  - API consumption(https://github.com/arturomorarioja/kea_js_api_consumption)]: #
 
 [## Homework]: #
+[- Deliver all pending First Mandatory Assignment(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344451) exercises. The deadline is next week]: #
