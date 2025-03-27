@@ -8,6 +8,10 @@
 [--> Show code samples Append strategies 1 & 2, Document fragment, Basic fetch]: #
 [--> Show code samples CSS3 Background(https://codepen.io/arturomorarioja/pen/xxQqRgY)]: #
 
+[--> Food Repo:]: #
+[  --> No li in div in ul]: #
+[  --> Check out where is sessionStorage token loaded]: #
+
 [## Class takeaways]: #
 [Check out:]: #
 [- The slide deck ** **]: #
