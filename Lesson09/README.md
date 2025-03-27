@@ -18,6 +18,10 @@
 [-->  - Append strategies 2(https://github.com/arturomorarioja/js_append_strategies_v2)]: #
 [-->  - Document fragment(https://codepen.io/arturomorarioja/pen/QwLaVMj)]: #
 [-->  - Basic fetch(https://github.com/arturomorarioja/js_basic_fetch)]: #
+
+[--> Food Repo:]: #
+[  --> no li in div]: #
+[  --> where to read the token from sessionStorage for loading fvourites]: #
 [  - API consumption(https://github.com/arturomorarioja/kea_js_api_consumption)]: #
 
 [## Homework]: #
