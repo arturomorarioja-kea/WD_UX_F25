@@ -2,27 +2,12 @@
 
 # Lesson 9 - 27 March
 
-[--> Check out solutions to the IA sitemap exercise]: #
-
-[--> Food Repo. clamp()]: #
-[--> Food Repo. Meal 52824 has a non-available video]: #
-[--> Food Repo. Video thumbnail: https://img.youtube.com/vi/GsB8ZI5vREA/mqdefault.jpg]: #
-[--> Show code samples Append strategies 1 & 2, Document fragment, Basic fetch]: #
-[--> Show code samples CSS3 Background(https://codepen.io/arturomorarioja/pen/xxQqRgY)]: #
-
-[## Class takeaways]: #
-[Check out:]: #
-[- The slide deck ** **]: #
-[Code samples:]: #
-[-->  - Append strategies(https://github.com/arturomorarioja/js_append_strategies)]: #
-[-->  - Append strategies 2(https://github.com/arturomorarioja/js_append_strategies_v2)]: #
-[-->  - Document fragment(https://codepen.io/arturomorarioja/pen/QwLaVMj)]: #
-[-->  - Basic fetch(https://github.com/arturomorarioja/js_basic_fetch)]: #
-
-[--> Food Repo:]: #
-[  --> no li in div]: #
-[  --> where to read the token from sessionStorage for loading fvourites]: #
-[  - API consumption(https://github.com/arturomorarioja/kea_js_api_consumption)]: #
-
-[## Homework]: #
-[- Deliver all pending First Mandatory Assignment(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344451) exercises. The deadline is next week]: #
+## Homework
+- Read patiently the code of the [Food Repo](https://github.com/arturomorarioja/js_food_repo_ux_f25) and make sure that you understand what we did today:
+  - Create and handle the utility navigation
+  - Sign up (POST fetch request)
+  - Log in (POST fetch request) and load favourite user recipes (GET request with token authentication)
+  - Mark recipes as favourite and unfavourite recipes (POST and DELETE requests with token authentication)
+  - Refactor API functionalities to `api.js`
+  - Reorganise the CSS code taking form styling to `form.css`
+- Deliver all pending [First Mandatory Assignment](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344451) exercises. **The deadline is on <u>Wednesday</u>**
