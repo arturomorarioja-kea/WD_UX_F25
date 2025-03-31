@@ -9,8 +9,15 @@
 [--> Show code samples CSS3 Background(https://codepen.io/arturomorarioja/pen/xxQqRgY)]: #
 
 [--> Food Repo:]: #
-[  --> No li in div in ul]: #
 [  --> Check out where is sessionStorage token loaded]: #
+
+[## Exercise solution]: #
+[- Tristan Wede Lind(https://github.com/arturomorarioja/kea_css_tristan_solution/)]: #
+[General feedback. Things to improve:]: #
+[- Beware of horizontal scrolls in mobile view]: #
+[- Avoid `<div>`. Use `<section>` whenever you can group elements in a meaningful (i.e., semantic) way]: #
+[- Review when to use `<section>` and when to use `<article>` (slide deck **HTML5**)]: #
+[- Do not use header tags (e.g., `<h4>`, `<h5>`) for styling purposes]: #
 
 [## Class takeaways]: #
 [Check out the following slide decks:]: #
