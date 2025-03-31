@@ -18,6 +18,7 @@
 [- Avoid `<div>`. Use `<section>` whenever you can group elements in a meaningful (i.e., semantic) way]: #
 [- Review when to use `<section>` and when to use `<article>` (slide deck **HTML5**)]: #
 [- Do not use header tags (e.g., `<h4>`, `<h5>`) for styling purposes]: #
+[- Use `<aside>` for non-crucial information, for example, when it will be hidden in the mobile view (e.g., the books list in the top section)]: #
 
 [## Class takeaways]: #
 [Check out the following slide decks:]: #
