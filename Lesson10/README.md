@@ -21,7 +21,14 @@
 [- Use `<aside>` for non-crucial information, for example, when it will be hidden in the mobile view (e.g., the books list in the top section)]: #
 [- Remember to use `<address>`, `<blockquote>` and other semantic tags that can make your HTML much easier to understand]: #
 [- Organise your CSS code in separate files]: #
-[- Always use CSS custom properties (variables), at least for all colours and fonts]: #
+[General feedback. Errors committed since the course started and that need swift addressing]: #
+[- Lack of folders to structure the code]: #
+[- Use of absolute paths]: #
+[- Use of XHTML syntax]: #
+[- Use of `<b>` instead of `<strong>`]: #
+[- Use of `<br>`]: #
+[- Lack of CSS custom properties (variables)]: #
+[- Incorrect use of pixel values]: #
 
 [## Class takeaways]: #
 [Check out the following slide decks:]: #
