@@ -3,6 +3,7 @@
 # Lesson 10 - 3 April
 
 [--> git pull twl]: #
+[--> download accessibility slides]: #
 
 [--> Food Repo. clamp()]: #
 [--> Food Repo. Meal 52824 has a non-available video]: #
