@@ -3,7 +3,6 @@
 # Lesson 10 - 3 April
 
 [--> git pull twl]: #
-[--> download accessibility slides]: #
 
 [--> Food Repo. clamp()]: #
 [--> Food Repo. Meal 52824 has a non-available video]: #
@@ -33,12 +32,14 @@
 [- Lack of CSS custom properties (variables)]: #
 [- Incorrect use of pixel values]: #
 
-[## Class takeaways]: #
-[Check out the following slide decks:]: #
-[- **Accessibility in Web Design and Development**]: #
+## Class takeaways
+Check out the following slide decks:
+- **Accessibility in Web Design and Development**
+  
 [- **Industrial Design: Wireframing and Prototyping**]: #
-[Check out the following code samples:]: #
-[- Accessibility for Web Design(https://github.com/arturomorarioja/accessibility_web_design)]: #
+Check out the following code samples:
+- [Accessibility for Web Design](https://github.com/arturomorarioja/accessibility_web_design)
+- 
 [-->  - Append strategies(https://github.com/arturomorarioja/js_append_strategies)]: #
 [-->  - Append strategies 2(https://github.com/arturomorarioja/js_append_strategies_v2)]: #
 [-->  - Document fragment(https://codepen.io/arturomorarioja/pen/QwLaVMj)]: #
