@@ -19,4 +19,5 @@ Make sure to `git clone` it and `git pull` the latest version every week.
 - [Lesson 7](https://github.com/arturomorarioja-kea/WD_UX_F25/blob/main/Lesson07/README.md) (13 March): npm. ESLint. URLSearchParams()
 - [Lesson 8](https://github.com/arturomorarioja-kea/WD_UX_F25/blob/main/Lesson08/README.md) (20 March): Performance and sustainability. Sitemaps
 - [Lesson 9](https://github.com/arturomorarioja-kea/WD_UX_F25/blob/main/Lesson09/README.md) (27 March): JS: Consumption of an authenticated API
-- [Lesson 10](https://github.com/arturomorarioja-kea/WD_UX_F25/edit/main/Lesson10/README.md) (3 April)
+- [Lesson 10](https://github.com/arturomorarioja-kea/WD_UX_F25/edit/main/Lesson10/README.md) (3 April): Web Accessibility. Wireframes and Prototypes
+- [Lesson 11](https://github.com/arturomorarioja-kea/WD_UX_F25/blob/main/Lesson11/README.md) (10 April)
