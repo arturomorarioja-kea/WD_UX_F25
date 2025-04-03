@@ -39,7 +39,7 @@ Check out the following slide decks:
 [- **Industrial Design: Wireframing and Prototyping**]: #
 Check out the following code samples:
 - [Accessibility for Web Design](https://github.com/arturomorarioja/accessibility_web_design)
-- 
+
 [-->  - Append strategies(https://github.com/arturomorarioja/js_append_strategies)]: #
 [-->  - Append strategies 2(https://github.com/arturomorarioja/js_append_strategies_v2)]: #
 [-->  - Document fragment(https://codepen.io/arturomorarioja/pen/QwLaVMj)]: #
