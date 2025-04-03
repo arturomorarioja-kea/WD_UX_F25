@@ -35,8 +35,7 @@ General feedback. Errors committed since the course started and that need swift 
 ## Class takeaways
 Check out the following slide decks:
 - **Accessibility in Web Design and Development**
-  
-[- **Industrial Design: Wireframing and Prototyping**]: #
+- **Industrial Design: Wireframing and Prototyping**
 Check out the following code samples:
 - [Accessibility for Web Design](https://github.com/arturomorarioja/accessibility_web_design)
 
@@ -46,7 +45,7 @@ Check out the following code samples:
 [-->  - Basic fetch(https://github.com/arturomorarioja/js_basic_fetch)]: #
 [  - API consumption(https://github.com/arturomorarioja/kea_js_api_consumption)]: #
 
-[## Homework]: #
-[Start working on the Second Mandatory Assignment(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344539). Register your group members and chosen topic here(https://studkea.sharepoint.com/:x:/s/TeamWEB-F25-UserExperience/EeIZf9mYctpMqd9UPBZqGWcBjSzXOjMvNmh7bdR0AvnB9w?e=Fico4T).]: #
+## Homework
+Start working on the [Second Mandatory Assignment](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344539). Register your group members and chosen topic [here](https://studkea.sharepoint.com/:x:/s/TeamWEB-F25-UserExperience/EeIZf9mYctpMqd9UPBZqGWcBjSzXOjMvNmh7bdR0AvnB9w?e=Fico4T).
 
 [--> <hgroup>, ibm access evaluation plugin]: #
