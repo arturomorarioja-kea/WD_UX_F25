@@ -36,6 +36,7 @@ General feedback. Errors committed since the course started and that need swift 
 Check out the following slide decks:
 - **Accessibility in Web Design and Development**
 - **Industrial Design: Wireframing and Prototyping**
+- 
 Check out the following code samples:
 - [Accessibility for Web Design](https://github.com/arturomorarioja/accessibility_web_design)
 
