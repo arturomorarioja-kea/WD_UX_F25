@@ -17,3 +17,10 @@
 [-->  - Basic fetch(https://github.com/arturomorarioja/js_basic_fetch)]: #
 [  - API consumption(https://github.com/arturomorarioja/kea_js_api_consumption)]: #
 
+[## Class takeaways]: #
+[Check out the following slide decks:]: #
+[- **Web Design Trends**]: #
+[- **UX Research: User Testing**]: #
+
+[## Homework]: #
+[Keep working on the Second Mandatory Assignment(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344539). Make sure that you implement at least one design trend among those covered in class and that you have time to design, execute and document a usability test on your prototype]: #
