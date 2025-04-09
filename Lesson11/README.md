@@ -2,14 +2,12 @@
 
 # Lesson 11 - 10 April
 
+
 [--> Food Repo. clamp()]: #
 [--> Food Repo. Meal 52824 has a non-available video]: #
 [--> Food Repo. Video thumbnail: https://img.youtube.com/vi/GsB8ZI5vREA/mqdefault.jpg]: #
 [--> Show code samples Append strategies 1 & 2, Document fragment, Basic fetch]: #
 [--> Show code samples CSS3 Background(https://codepen.io/arturomorarioja/pen/xxQqRgY)]: #
-
-[--> Food Repo:]: #
-[  --> Check out where is sessionStorage token loaded]: #
 
 [-->  - Append strategies(https://github.com/arturomorarioja/js_append_strategies)]: #
 [-->  - Append strategies 2(https://github.com/arturomorarioja/js_append_strategies_v2)]: #
@@ -24,3 +22,4 @@
 
 [## Homework]: #
 [Keep working on the Second Mandatory Assignment(https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344539). Make sure that you implement at least one design trend among those covered in class and that you have time to design, execute and document a usability test on your prototype]: #
+[Check out the finished version of the Food Repo(https://github.com/arturomorarioja/food_repo_v2)]: #
